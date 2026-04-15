@@ -1,25 +1,40 @@
-# Blys Customer Behavior Analysis & Insights Report
+# Customer Behaviour Analysis — Blys
 
-## 1. Executive Summary
-This report analyzes Blys customer interaction patterns utilizing K-Means clustering and Natural Language Processing (NLP) sentiment scoring. The data captures historical bounds of `Booking_Frequency`, `Avg_Spending`, and textual analysis of `Review_Text`.
+## Dataset
+- **Records:** 800 synthetic customers
+- **Fields:** Customer_ID, Booking_Frequency, Avg_Spending, Preferred_Service, Review_Text, Last_Activity, Days_Since_Last_Booking, Total_Spend
+- **Generation:** Archetype-based synthetic data with realistic booking patterns and sentiment-correlated reviews
 
-## 2. Methodology
-- **Data Preprocessing**: Missing `Booking_Frequency` and `Avg_Spending` values were imputed using column medians, and numeric features were normalized utilizing statistical standard scaling. 
-- **Sentiment Analysis**: NLP processing via the `textblob` toolkit was applied to extract a `Review_Sentiment` polarity score between -1.0 (highly negative) and 1.0 (highly positive).
-- **Segmentation Strategy**: A `K-Means (n=3)` clustering algorithm was selected to segment broad behavior patterns programmatically utilizing normalized spend characteristics and sentiment satisfaction bounds.
+## Preprocessing
+- Missing values filled with column median
+- Sentiment extracted from Review_Text using TextBlob (polarity: -1 to +1)
+- Booking_Frequency and Avg_Spending normalised with StandardScaler
 
-## 3. Customer Segments
-Based on algorithmic grouping, three distinct cohorts emerged from the underlying variance maps:
-1. **VIP / High-Value Customers (Cluster 1)**: Exhibit highest average spending (`Avg_Spending` bounds upper quartile) and frequent bookings. Their sentiment rating is consistently optimal (> 0.5 polarity).
-2. **Average / Active Customers (Cluster 2)**: Mainstream customers utilizing services semi-regularly with moderate spending margins and generally positive/neutral reviews.
-3. **At-Risk / Churn Customers (Cluster 3)**: Identified primarily through negative sentiment polarity in `Review_Text` (< 0.0 score) alongside stalling or lower booking frequencies.
+## Customer Segments (K-Means, k=4)
 
-## 4. Key Insights & Engagement Recommendations
+| Segment | Count | Avg Frequency | Avg Spending | Avg Sentiment | Avg Days Inactive |
+|---|---|---|---|---|---|
+| High-Value Loyalists | 99 | 9.06 | $308.23 | 0.3 | 134.59 days |
+| Lapsed High-Spenders | 117 | 10.94 | $187.8 | 0.08 | 167.25 days |
+| New Explorers | 487 | 2.26 | $95.36 | 0.23 | 87.4 days |
+| Price-Sensitive Occasionals | 97 | 15.69 | $298.74 | 0.32 | 55.49 days |
 
-### Retention Strategies for High-Value VIPs
-- **Automated Rebooking Priority**: Allow frictionless "One-Tap Rebooking" through the platform focusing on their explicitly mapped `Preferred_Service`.
-- **Value-Add Upgrades**: VIPs frequently select broad packages over individual variants. Trigger proactive retention sequences by providing complimentary aroma/hot-stone additions to bookings exceeding standard lengths.
+## Business Recommendations
 
-### Target Engagement for At-Risk Churn Group
-- **Immediate Recovery Pipelines**: For any user triggering a sub-zero sentiment score, alert customer-support nodes automatically.
-- **Incentive Outreach Campaigns**: Use the downstream Personalization Recommendation engine to locate a high-confidence alternative service map, offering them an exclusive discount to trial it, demonstrating high-quality service recovery.
+### High-Value Loyalists
+- Highest LTV segment. Assign top-rated therapists to this group.
+- Offer a loyalty programme (e.g. every 10th booking free) to reinforce retention.
+
+### Lapsed High-Spenders
+- Highest churn risk despite historically high spend.
+- Re-engagement campaign: personalised email with 15% discount on their preferred service.
+- Target within 90-day inactivity window before they become fully churned.
+
+### Price-Sensitive Occasionals
+- Respond well to promotions. Bundle deals (e.g. Massage + Manicure) can increase basket size.
+- Upsell to Wellness Package with a first-time discount.
+
+### New Explorers
+- Recent first-timers with positive sentiment — high conversion potential.
+- Follow-up within 7 days with a personalised recommendation based on their first service.
+- Onboarding email series to introduce the full service catalogue.

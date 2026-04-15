@@ -11,8 +11,6 @@ venv/
 
 .ipynb_checkpoints/
 
-# re-generated at runtime
-models/*.pkl
 
 chroma_db/
 chroma_db_eval/
