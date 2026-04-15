@@ -269,7 +269,7 @@ The chatbot combines a Retrieval-Augmented Generation pipeline (hybrid BM25 + ve
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/ShishirRmc/bliss.git
 cd bliss
 
 # Create virtual environment
