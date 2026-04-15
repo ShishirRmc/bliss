@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react'
 import { gsap } from 'gsap'
+import ReactMarkdown from 'react-markdown'
 
 export default function MessageBubble({ message }) {
   const isUser = message.role === 'user'
@@ -25,7 +26,27 @@ export default function MessageBubble({ message }) {
           borderColor: 'rgba(201,168,76,0.3)',
         } : {}}
       >
-        {message.content}
+        {isUser ? message.content : (
+          <ReactMarkdown
+            components={{
+              p: ({ children }) => <p className="mb-2 last:mb-0">{children}</p>,
+              strong: ({ children }) => <strong className="font-semibold text-[#C9A84C]">{children}</strong>,
+              em: ({ children }) => <em className="italic text-[#A0A0B0]">{children}</em>,
+              ol: ({ children }) => <ol className="list-decimal list-inside space-y-1 my-2">{children}</ol>,
+              ul: ({ children }) => <ul className="list-disc list-inside space-y-1 my-2">{children}</ul>,
+              li: ({ children }) => <li className="leading-relaxed">{children}</li>,
+              a: ({ href, children }) => (
+                <a href={href} className="text-[#C9A84C] underline underline-offset-2 hover:opacity-80" target="_blank" rel="noreferrer">{children}</a>
+              ),
+              code: ({ children }) => (
+                <code style={{ fontFamily: "'JetBrains Mono', monospace" }} className="bg-[#0D0D12] text-[#C9A84C] px-1.5 py-0.5 rounded text-xs">{children}</code>
+              ),
+              hr: () => <hr className="border-[#1F1F2E] my-2" />,
+            }}
+          >
+            {message.content}
+          </ReactMarkdown>
+        )}
       </div>
 
       {message.sources?.length > 0 && (
