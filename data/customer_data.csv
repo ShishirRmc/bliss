@@ -1,0 +1,801 @@
+Customer_ID,Booking_Frequency,Avg_Spending,Preferred_Service,Review_Text,Last_Activity,Days_Since_Last_Booking,Total_Spend
+1697,1,137.77,Massage,"Amazing service, felt so relaxed afterwards. 10/10!",2024-03-09,6,129.31
+1668,2,93.36,Couples Massage,The booking process was seamless and the service was top-notch.,2024-02-26,18,221.91
+1064,11,221.38,Couples Massage,Incredible value for the quality of service provided.,2024-03-10,5,2336.32
+1534,6,301.98,Wellness Package,Not bad. The therapist was competent but not exceptional.,2023-10-13,154,1534.35
+1067,18,361.47,Couples Massage,This has become my monthly self-care ritual. Can't live without it!,2024-03-14,1,6397.81
+1622,1,168.78,Couples Massage,The couples massage was the perfect anniversary gift.,2024-03-12,3,189.01
+1347,4,73.11,Manicure,Best massage I've ever had. Will definitely rebook.,2024-02-21,23,345.12
+1491,14,313.84,Facial,I've tried many services but this was by far the best.,2023-04-06,344,4629.9
+1761,2,64.24,Massage,Decent quality. Probably would try again.,2023-04-27,323,147.3
+1457,10,269.73,Massage,The booking process was seamless and the service was top-notch.,2023-07-31,228,3049.8
+1066,15,397.31,Wellness Package,Therapist arrived on time and was extremely professional.,2024-03-13,2,4830.92
+1287,3,94.27,Manicure,My go-to for wellness. Never been disappointed once.,2024-01-03,72,334.58
+1636,2,104.53,Manicure,My skin reacted badly to the products used. No follow-up from support.,2024-03-14,1,238.58
+1068,12,333.62,Couples Massage,Reasonable service for the price. Would consider rebooking.,2024-03-14,1,4741.98
+1328,2,101.78,Facial,The booking was easy but the service felt a bit rushed.,2024-02-09,35,224.33
+1396,3,100.16,Manicure,Too expensive for what you get. Disappointing.,2024-02-09,35,248.03
+1245,2,129.97,Manicure,The booking process was seamless and the service was top-notch.,2023-12-27,79,288.37
+1378,3,72.53,Manicure,My go-to for wellness. Never been disappointed once.,2023-12-31,75,203.39
+1611,1,152.31,Facial,The booking process was seamless and the service was top-notch.,2024-03-03,12,132.09
+1527,11,188.57,Massage,Not bad. The therapist was competent but not exceptional.,2023-04-13,337,2481.13
+1659,1,76.48,Wellness Package,Good experience overall. Average pricing.,2024-03-14,1,82.59
+1530,5,197.59,Massage,Poor communication and the quality was below average.,2023-03-26,355,994.59
+1623,1,107.11,Couples Massage,The therapist was nice enough. Service was adequate.,2024-03-02,13,123.81
+1722,1,74.46,Massage,Incredible value for the quality of service provided.,2022-11-05,496,69.78
+1361,3,63.27,Facial,The service was rushed and I felt like just another number.,2024-02-06,38,160.56
+1031,18,198.12,Couples Massage,Wonderful experience from start to finish. Highly recommend!,2024-02-17,27,3167.09
+1261,4,98.03,Facial,I was not impressed. Expected much more for the price.,2024-02-26,18,418.41
+1638,1,67.03,Facial,Five stars all around. The experience was flawless.,2024-03-07,8,61.16
+1747,2,40.32,Facial,Okay experience. Not the best I've had but not the worst.,2022-11-16,485,77.46
+1571,2,102.4,Wellness Package,Five stars all around. The experience was flawless.,2024-03-07,8,243.14
+1216,4,136.17,Facial,Fair service. The app worked well for booking.,2024-01-29,46,603.59
+1079,16,183.23,Couples Massage,Such a convenient and luxurious experience. Love it!,2024-03-04,11,2482.63
+1579,2,152.96,Wellness Package,"It was okay, nothing special but decent service.",2024-03-12,3,297.74
+1384,3,78.49,Facial,Not bad. The therapist was competent but not exceptional.,2024-01-21,54,188.74
+1040,11,309.79,Couples Massage,Wonderful experience from start to finish. Highly recommend!,2024-03-14,1,3399.37
+1024,14,185.65,Wellness Package,Best massage I've ever had. Will definitely rebook.,2024-02-17,27,2513.24
+1693,1,84.22,Massage,Five stars all around. The experience was flawless.,2024-02-27,17,74.85
+1399,3,117.46,Manicure,Decent quality. Probably would try again.,2024-02-08,36,367.47
+1797,2,98.39,Facial,Booking process was confusing and the service was mediocre.,2023-05-30,290,210.87
+1742,2,75.83,Massage,The therapist was late and seemed unprepared.,2022-12-13,458,140.62
+1140,18,344.48,Wellness Package,Absolutely loved it! The therapist was amazing.,2024-02-22,22,6997.44
+1251,3,50.79,Manicure,Reasonable service for the price. Would consider rebooking.,2024-01-02,73,141.17
+1175,2,108.62,Facial,Not worth the price. I've had better at half the cost.,2024-01-06,69,231.46
+1324,3,94.33,Manicure,Booking process was confusing and the service was mediocre.,2024-01-29,46,311.07
+1596,1,144.4,Massage,This has become my monthly self-care ritual. Can't live without it!,2024-03-05,10,138.08
+1526,11,333.72,Facial,Therapist cancelled last minute. Very frustrating.,2023-07-29,230,4089.2
+1424,9,239.01,Facial,I was not impressed. Expected much more for the price.,2023-06-24,265,1908.35
+1597,1,177.34,Wellness Package,Such a convenient and luxurious experience. Love it!,2024-03-04,11,182.93
+1605,2,160.61,Wellness Package,Absolutely loved it! The therapist was amazing.,2024-03-02,13,276.72
+1535,9,345.56,Wellness Package,Would not recommend. The whole experience felt unprofessional.,2023-04-13,337,3219.0
+1266,3,94.01,Facial,The booking process was seamless and the service was top-notch.,2024-02-04,40,237.91
+1110,17,231.07,Massage,My go-to for wellness. Never been disappointed once.,2024-02-23,21,3408.0
+1667,1,54.01,Facial,"Amazing service, felt so relaxed afterwards. 10/10!",2024-03-13,2,43.91
+1295,2,39.65,Manicure,My go-to for wellness. Never been disappointed once.,2024-01-23,52,89.37
+1337,3,121.2,Facial,Therapist arrived on time and was extremely professional.,2024-02-10,34,338.43
+1369,4,110.94,Manicure,The booking was easy but the service felt a bit rushed.,2024-02-24,20,421.03
+1447,11,229.71,Massage,Exceeded my expectations. The therapist really listened to my needs.,2023-10-03,164,2374.01
+1334,2,115.42,Massage,Incredible value for the quality of service provided.,2024-02-27,17,276.25
+1199,3,139.14,Massage,The therapist was late and seemed unprepared.,2023-12-30,76,500.29
+1169,3,129.59,Manicure,My therapist was incredibly professional and skilled.,2023-12-22,84,453.2
+1482,8,274.41,Wellness Package,I was not impressed. Expected much more for the price.,2023-04-13,337,1874.13
+1724,2,30.0,Facial,Best massage I've ever had. Will definitely rebook.,2023-02-24,385,50.84
+1656,2,144.38,Massage,The couples massage was the perfect anniversary gift.,2024-03-11,4,298.16
+1307,3,59.32,Manicure,Good experience overall. Average pricing.,2024-02-23,21,179.78
+1232,2,111.42,Massage,The therapist was late and seemed unprepared.,2024-01-29,46,204.91
+1423,6,258.06,Wellness Package,My go-to for wellness. Never been disappointed once.,2023-08-13,215,1607.81
+1050,15,345.1,Massage,The booking process was seamless and the service was top-notch.,2024-03-04,11,5609.07
+1788,1,35.02,Facial,It was a satisfactory experience. Nothing memorable.,2023-08-11,217,29.3
+1358,3,80.63,Massage,Overpriced and underwhelming. Won't be coming back.,2024-02-16,28,264.22
+1087,12,394.17,Wellness Package,Exceeded my expectations. The therapist really listened to my needs.,2024-03-10,5,4262.69
+1546,10,329.61,Massage,This has become my monthly self-care ritual. Can't live without it!,2023-06-18,271,3770.51
+1193,3,119.71,Massage,The experience did not match the website description at all.,2024-01-13,62,289.87
+1796,1,64.47,Massage,The service was fine. Met my basic expectations.,2023-02-21,388,52.1
+1034,17,201.2,Massage,The therapist was late and seemed unprepared.,2024-02-16,28,2975.69
+1032,10,229.61,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-03-08,7,1997.03
+1200,4,57.15,Manicure,Not worth the price. I've had better at half the cost.,2023-12-19,87,264.71
+1366,4,88.16,Manicure,My therapist was incredibly professional and skilled.,2024-01-29,46,318.59
+1487,9,209.76,Facial,The experience did not match the website description at all.,2023-07-16,243,1520.99
+1595,1,171.75,Wellness Package,Perfect way to unwind after a long week. Thank you Blys!,2024-02-29,15,172.55
+1569,1,159.72,Manicure,Wonderful experience from start to finish. Highly recommend!,2024-03-06,9,161.74
+1429,9,210.89,Facial,Would not recommend. The whole experience felt unprofessional.,2023-11-05,131,2146.13
+1138,11,352.52,Massage,Therapist arrived on time and was extremely professional.,2024-02-17,27,4325.36
+1073,16,316.29,Massage,Such a convenient and luxurious experience. Love it!,2024-03-11,4,4801.57
+1078,19,241.09,Couples Massage,Good experience overall. Average pricing.,2024-02-17,27,4054.35
+1513,9,259.52,Wellness Package,Too expensive for what you get. Disappointing.,2023-10-27,140,2213.55
+1784,1,82.02,Facial,My therapist was incredibly professional and skilled.,2023-06-22,267,89.97
+1787,2,82.82,Massage,Therapist cancelled last minute. Very frustrating.,2023-08-24,204,153.65
+1276,3,81.01,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-01-19,56,281.92
+1362,3,116.7,Massage,Good experience overall. Average pricing.,2024-01-22,53,379.21
+1097,10,188.6,Massage,The booking process was seamless and the service was top-notch.,2024-03-10,5,2260.66
+1642,1,177.45,Massage,This has become my monthly self-care ritual. Can't live without it!,2024-03-07,8,208.2
+1716,1,183.56,Massage,Wonderful experience from start to finish. Highly recommend!,2024-03-10,5,189.2
+1282,3,81.87,Facial,Decent quality. Probably would try again.,2024-01-19,56,285.45
+1394,4,88.96,Facial,I've tried many services but this was by far the best.,2024-02-22,22,409.54
+1629,1,102.55,Facial,Not bad. The therapist was competent but not exceptional.,2024-03-08,7,106.2
+1609,1,98.71,Wellness Package,Not bad. The therapist was competent but not exceptional.,2024-03-07,8,116.11
+1706,1,160.36,Facial,Incredible value for the quality of service provided.,2024-03-04,11,146.18
+1755,2,48.96,Facial,The booking process was seamless and the service was top-notch.,2023-06-15,274,117.33
+1055,8,152.26,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-02-16,28,1133.62
+1751,2,52.68,Massage,I was not impressed. Expected much more for the price.,2023-01-10,430,102.53
+1156,15,299.19,Wellness Package,My therapist was incredibly professional and skilled.,2024-03-14,1,4982.46
+1433,12,168.74,Facial,The service was fine. Met my basic expectations.,2023-07-23,236,1727.12
+1098,12,360.2,Couples Massage,Such a convenient and luxurious experience. Love it!,2024-03-05,10,4926.93
+1121,16,237.75,Couples Massage,Too expensive for what you get. Disappointing.,2024-02-17,27,3585.04
+1077,19,388.97,Couples Massage,Perfect way to unwind after a long week. Thank you Blys!,2024-02-29,15,6158.55
+1205,2,101.73,Massage,Reasonable service for the price. Would consider rebooking.,2024-01-05,70,216.65
+1353,3,98.65,Manicure,The booking process was seamless and the service was top-notch.,2024-02-06,38,292.64
+1765,2,57.95,Facial,I was not impressed. Expected much more for the price.,2023-05-19,301,99.46
+1209,3,74.45,Manicure,The therapist was late and seemed unprepared.,2024-01-22,53,193.04
+1368,3,89.99,Facial,Incredible value for the quality of service provided.,2023-12-29,77,275.64
+1426,14,212.42,Wellness Package,Not bad. The therapist was competent but not exceptional.,2023-03-30,351,3278.66
+1516,10,271.97,Wellness Package,My skin reacted badly to the products used. No follow-up from support.,2023-04-16,334,3107.57
+1085,9,272.01,Wellness Package,Absolutely loved it! The therapist was amazing.,2024-03-14,1,2625.37
+1011,15,301.08,Couples Massage,Absolutely loved it! The therapist was amazing.,2024-02-23,21,4315.1
+1721,2,57.11,Facial,Fair service. The app worked well for booking.,2023-02-24,385,124.67
+1111,13,170.57,Massage,I've tried many services but this was by far the best.,2024-02-18,26,2567.07
+1522,9,158.71,Massage,"It was okay, nothing special but decent service.",2023-05-25,295,1499.74
+1778,2,84.49,Facial,I was not impressed. Expected much more for the price.,2022-12-03,468,191.46
+1210,3,112.55,Facial,Incredible value for the quality of service provided.,2024-02-18,26,270.98
+1236,3,96.54,Manicure,Decent quality. Probably would try again.,2024-01-16,59,252.79
+1317,2,61.84,Facial,Absolutely loved it! The therapist was amazing.,2024-02-22,22,101.01
+1389,3,68.6,Facial,My facial left my skin glowing. Absolutely fantastic!,2024-02-16,28,240.22
+1119,11,288.64,Wellness Package,Incredible value for the quality of service provided.,2024-02-26,18,2650.42
+1720,2,97.79,Couples Massage,Best massage I've ever had. Will definitely rebook.,2024-03-02,13,177.74
+1211,3,57.98,Manicure,The service was rushed and I felt like just another number.,2024-01-01,74,139.78
+1255,4,70.37,Manicure,Not worth the price. I've had better at half the cost.,2024-02-01,43,275.15
+1592,1,185.45,Wellness Package,This has become my monthly self-care ritual. Can't live without it!,2024-03-05,10,148.78
+1030,13,261.3,Couples Massage,The booking process was seamless and the service was top-notch.,2024-02-28,16,3802.28
+1267,2,30.98,Manicure,Standard massage experience. Nothing to complain about.,2023-12-22,84,68.08
+1657,1,138.98,Facial,Poor communication and the quality was below average.,2024-02-26,18,142.35
+1663,1,145.56,Facial,Good experience overall. Average pricing.,2024-02-27,17,120.9
+1297,3,37.85,Massage,The service was rushed and I felt like just another number.,2024-02-28,16,101.0
+1082,15,256.66,Massage,The couples massage was the perfect anniversary gift.,2024-03-14,1,4435.64
+1689,2,87.5,Couples Massage,Such a convenient and luxurious experience. Love it!,2024-02-25,19,167.5
+1303,3,92.31,Facial,Standard massage experience. Nothing to complain about.,2024-02-28,16,275.22
+1507,8,352.57,Wellness Package,The therapist was late and seemed unprepared.,2023-04-22,328,2725.73
+1759,2,43.87,Facial,Would not recommend. The whole experience felt unprofessional.,2023-09-07,190,99.19
+1315,2,68.24,Facial,"It was okay, nothing special but decent service.",2024-02-09,35,154.23
+1645,2,110.46,Facial,Best massage I've ever had. Will definitely rebook.,2024-03-01,14,246.94
+1410,5,298.83,Facial,Would not recommend. The whole experience felt unprofessional.,2023-09-05,192,1765.51
+1212,3,72.15,Massage,Booking process was confusing and the service was mediocre.,2023-12-21,85,220.02
+1533,6,193.67,Wellness Package,Standard massage experience. Nothing to complain about.,2023-10-30,137,1200.86
+1484,14,161.57,Wellness Package,This has become my monthly self-care ritual. Can't live without it!,2023-05-08,312,1849.3
+1219,3,31.49,Manicure,My therapist was incredibly professional and skilled.,2024-01-03,72,109.36
+1008,19,269.42,Massage,Absolutely loved it! The therapist was amazing.,2024-02-29,15,4450.16
+1465,13,286.78,Wellness Package,I was not impressed. Expected much more for the price.,2023-09-08,189,3993.31
+1102,16,288.95,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-02-29,15,4476.25
+1327,4,91.98,Facial,Too expensive for what you get. Disappointing.,2024-01-29,46,340.98
+1653,1,149.75,Manicure,My therapist was incredibly professional and skilled.,2024-02-27,17,169.07
+1538,10,138.42,Facial,Not worth the price. I've had better at half the cost.,2023-10-24,143,1288.44
+1641,1,182.23,Couples Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-03-12,3,176.3
+1003,13,167.6,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-03-13,2,1901.5
+1739,1,83.97,Massage,"Amazing service, felt so relaxed afterwards. 10/10!",2023-07-29,230,97.79
+1777,1,81.83,Facial,The service was rushed and I felt like just another number.,2022-12-17,454,76.4
+1520,10,191.1,Wellness Package,Standard massage experience. Nothing to complain about.,2023-04-21,329,2140.32
+1590,2,95.08,Couples Massage,The service was fine. Met my basic expectations.,2024-03-08,7,227.9
+1799,2,31.99,Massage,Fair service. The app worked well for booking.,2023-07-07,252,70.63
+1745,1,43.71,Facial,Not worth the price. I've had better at half the cost.,2023-06-04,285,45.7
+1514,12,170.98,Massage,The therapist was nice enough. Service was adequate.,2023-03-21,360,2227.66
+1671,2,171.08,Facial,The experience did not match the website description at all.,2024-02-27,17,396.8
+1265,4,80.83,Facial,Poor communication and the quality was below average.,2024-02-21,23,307.77
+1616,1,76.13,Massage,Okay experience. Not the best I've had but not the worst.,2024-03-04,11,78.06
+1330,2,133.22,Facial,Perfect way to unwind after a long week. Thank you Blys!,2024-02-01,43,290.73
+1343,4,101.62,Facial,"It was okay, nothing special but decent service.",2024-01-30,45,459.34
+1395,3,123.48,Manicure,I've tried many services but this was by far the best.,2024-01-31,44,359.95
+1080,17,384.37,Couples Massage,My go-to for wellness. Never been disappointed once.,2024-02-27,17,5491.74
+1149,12,218.62,Couples Massage,Standard massage experience. Nothing to complain about.,2024-02-19,25,3004.91
+1351,2,82.81,Massage,Not worth the price. I've had better at half the cost.,2024-02-26,18,135.8
+1383,3,108.1,Manicure,Reasonable service for the price. Would consider rebooking.,2024-01-26,49,263.48
+1441,5,334.31,Massage,Wonderful experience from start to finish. Highly recommend!,2023-06-11,278,1956.64
+1310,2,71.36,Manicure,Not worth the price. I've had better at half the cost.,2024-01-08,67,159.93
+1708,1,64.25,Manicure,The experience did not match the website description at all.,2024-03-07,8,53.8
+1134,16,362.99,Couples Massage,Absolutely loved it! The therapist was amazing.,2024-02-19,25,6232.93
+1382,4,56.5,Facial,It was a satisfactory experience. Nothing memorable.,2023-12-17,89,239.66
+1214,3,105.75,Facial,Absolutely loved it! The therapist was amazing.,2023-12-28,78,343.67
+1660,1,113.68,Wellness Package,The therapist was nice enough. Service was adequate.,2024-03-03,12,130.65
+1056,19,220.29,Couples Massage,I've tried many services but this was by far the best.,2024-03-10,5,4113.96
+1737,2,61.28,Facial,The booking was easy but the service felt a bit rushed.,2023-01-31,409,130.06
+1621,1,113.67,Facial,"Amazing service, felt so relaxed afterwards. 10/10!",2024-03-06,9,113.33
+1583,2,160.88,Manicure,"Amazing service, felt so relaxed afterwards. 10/10!",2024-02-26,18,380.77
+1674,1,80.48,Facial,I've tried many services but this was by far the best.,2024-03-02,13,87.24
+1528,14,322.97,Massage,Poor communication and the quality was below average.,2023-05-13,307,4431.36
+1197,2,99.81,Manicure,Incredible value for the quality of service provided.,2023-12-18,88,163.44
+1714,2,182.21,Facial,Fair service. The app worked well for booking.,2024-02-28,16,295.6
+1690,2,152.78,Manicure,Absolutely loved it! The therapist was amazing.,2024-03-03,12,282.79
+1061,12,341.59,Wellness Package,Wonderful experience from start to finish. Highly recommend!,2024-03-10,5,4282.26
+1577,2,93.28,Massage,My therapist was incredibly professional and skilled.,2024-02-27,17,150.34
+1632,1,56.04,Massage,I was not impressed. Expected much more for the price.,2024-03-01,14,58.5
+1432,10,245.59,Facial,I was not impressed. Expected much more for the price.,2023-04-11,339,2418.03
+1604,1,140.27,Wellness Package,Such a convenient and luxurious experience. Love it!,2024-03-04,11,137.67
+1443,9,193.1,Massage,Overpriced and underwhelming. Won't be coming back.,2023-06-16,273,1757.77
+1437,8,292.02,Wellness Package,Standard massage experience. Nothing to complain about.,2023-09-06,191,2357.13
+1248,2,58.83,Facial,Okay experience. Not the best I've had but not the worst.,2024-02-02,42,95.85
+1587,1,86.43,Massage,Therapist arrived on time and was extremely professional.,2024-03-03,12,74.35
+1570,1,158.47,Wellness Package,Therapist arrived on time and was extremely professional.,2024-03-02,13,157.48
+1091,19,291.43,Massage,Would not recommend. The whole experience felt unprofessional.,2024-02-16,28,4601.91
+1651,1,52.44,Wellness Package,Incredible value for the quality of service provided.,2024-03-13,2,59.91
+1182,4,108.86,Massage,Good experience overall. Average pricing.,2024-02-04,40,355.22
+1791,1,44.79,Massage,Would not recommend. The whole experience felt unprofessional.,2023-02-04,405,47.06
+1555,14,352.43,Wellness Package,It was a satisfactory experience. Nothing memorable.,2023-11-12,124,4635.79
+1291,3,74.37,Massage,This has become my monthly self-care ritual. Can't live without it!,2024-02-14,30,223.72
+1159,19,346.34,Couples Massage,Wonderful experience from start to finish. Highly recommend!,2024-02-19,25,5848.64
+1070,8,294.92,Couples Massage,My therapist was incredibly professional and skilled.,2024-02-15,29,2684.83
+1518,6,94.22,Massage,I've tried many services but this was by far the best.,2023-11-04,132,641.98
+1132,13,163.36,Couples Massage,My therapist was incredibly professional and skilled.,2024-02-15,29,1817.68
+1045,8,160.73,Wellness Package,Exceeded my expectations. The therapist really listened to my needs.,2024-03-01,14,1499.22
+1071,9,244.44,Couples Massage,The therapist was nice enough. Service was adequate.,2024-02-26,18,2313.43
+1692,1,91.46,Manicure,Incredible value for the quality of service provided.,2024-03-08,7,78.0
+1356,4,77.91,Massage,My therapist was incredibly professional and skilled.,2024-01-04,71,292.43
+1445,11,148.3,Massage,Not worth the price. I've had better at half the cost.,2023-11-10,126,1308.74
+1762,2,79.43,Massage,Absolutely loved it! The therapist was amazing.,2023-05-22,298,157.48
+1136,8,369.62,Massage,Incredible value for the quality of service provided.,2024-02-21,23,2994.64
+1083,14,386.54,Massage,My go-to for wellness. Never been disappointed once.,2024-02-25,19,6011.48
+1166,3,123.36,Facial,Poor communication and the quality was below average.,2023-12-18,88,379.82
+1165,2,64.75,Manicure,My skin reacted badly to the products used. No follow-up from support.,2024-01-08,67,118.85
+1029,14,306.4,Couples Massage,The couples massage was the perfect anniversary gift.,2024-03-09,6,4062.74
+1449,12,138.87,Facial,Overpriced and underwhelming. Won't be coming back.,2023-06-12,277,1429.94
+1194,2,81.87,Massage,My skin reacted badly to the products used. No follow-up from support.,2023-12-24,82,145.29
+1240,3,106.57,Massage,Therapist arrived on time and was extremely professional.,2024-01-25,50,259.53
+1725,1,42.08,Facial,Overpriced and underwhelming. Won't be coming back.,2023-03-12,369,42.76
+1731,1,72.47,Facial,The therapist was late and seemed unprepared.,2023-02-18,391,78.29
+1137,15,283.88,Wellness Package,Five stars all around. The experience was flawless.,2024-02-24,20,4759.01
+1665,1,47.37,Facial,Absolutely loved it! The therapist was amazing.,2024-03-09,6,48.61
+1312,3,91.41,Massage,Decent quality. Probably would try again.,2024-01-09,66,246.09
+1141,11,265.08,Wellness Package,I've tried many services but this was by far the best.,2024-03-07,8,2507.56
+1474,9,207.49,Massage,Fair service. The app worked well for booking.,2023-10-23,144,1880.83
+1007,9,378.21,Couples Massage,Incredible value for the quality of service provided.,2024-02-24,20,3051.28
+1729,2,42.59,Facial,Not bad. The therapist was competent but not exceptional.,2023-07-22,237,84.38
+1756,2,30.89,Massage,The experience did not match the website description at all.,2023-02-01,408,68.85
+1074,15,374.7,Wellness Package,Perfect way to unwind after a long week. Thank you Blys!,2024-03-10,5,5032.81
+1560,7,147.98,Massage,The service was fine. Met my basic expectations.,2023-08-01,227,1091.65
+1300,4,73.4,Manicure,I've tried many services but this was by far the best.,2024-02-05,39,313.13
+1146,11,348.22,Massage,Best massage I've ever had. Will definitely rebook.,2024-03-10,5,4147.94
+1293,2,75.14,Manicure,Okay experience. Not the best I've had but not the worst.,2023-12-25,81,144.09
+1235,3,90.46,Massage,The therapist was late and seemed unprepared.,2024-02-18,26,234.42
+1221,4,121.82,Facial,Not bad. The therapist was competent but not exceptional.,2024-01-08,67,419.77
+1451,10,170.83,Facial,Therapist arrived on time and was extremely professional.,2023-04-28,322,1516.47
+1381,2,61.56,Facial,This has become my monthly self-care ritual. Can't live without it!,2024-01-26,49,105.49
+1133,19,196.83,Massage,Fair service. The app worked well for booking.,2024-02-17,27,3939.86
+1376,3,94.51,Manicure,Not worth the price. I've had better at half the cost.,2024-02-26,18,339.9
+1405,8,164.53,Wellness Package,Booking process was confusing and the service was mediocre.,2023-06-10,279,1491.73
+1523,11,329.45,Facial,Exceeded my expectations. The therapist really listened to my needs.,2023-08-13,215,3465.48
+1750,2,67.88,Massage,My skin reacted badly to the products used. No follow-up from support.,2022-11-23,478,139.34
+1427,14,337.47,Wellness Package,The service was fine. Met my basic expectations.,2023-06-04,285,5659.78
+1042,13,230.41,Couples Massage,The service was rushed and I felt like just another number.,2024-03-01,14,3103.01
+1496,6,339.37,Massage,Incredible value for the quality of service provided.,2023-07-16,243,2376.87
+1109,15,183.73,Massage,The experience did not match the website description at all.,2024-03-12,3,2772.75
+1345,4,88.14,Facial,Exceeded my expectations. The therapist really listened to my needs.,2023-12-17,89,385.51
+1057,11,241.36,Couples Massage,Incredible value for the quality of service provided.,2024-02-28,16,3160.31
+1260,2,115.1,Facial,Absolutely loved it! The therapist was amazing.,2024-01-13,62,253.44
+1480,8,194.37,Wellness Package,It was a satisfactory experience. Nothing memorable.,2023-10-29,138,1833.23
+1626,1,100.67,Wellness Package,The service was rushed and I felt like just another number.,2024-03-02,13,96.91
+1228,2,97.0,Massage,Reasonable service for the price. Would consider rebooking.,2024-01-07,68,203.17
+1213,4,85.81,Massage,The service was fine. Met my basic expectations.,2024-02-08,36,403.27
+1594,1,57.98,Massage,This has become my monthly self-care ritual. Can't live without it!,2024-02-28,16,53.62
+1333,4,103.15,Facial,Absolutely loved it! The therapist was amazing.,2024-02-22,22,406.26
+1025,10,207.36,Couples Massage,This has become my monthly self-care ritual. Can't live without it!,2024-02-20,24,2241.99
+1781,2,48.29,Massage,Overpriced and underwhelming. Won't be coming back.,2022-12-10,461,112.3
+1352,4,85.56,Facial,My therapist was incredibly professional and skilled.,2024-01-04,71,274.75
+1357,4,78.02,Massage,Such a convenient and luxurious experience. Love it!,2024-02-15,29,359.78
+1052,11,353.43,Massage,Five stars all around. The experience was flawless.,2024-03-14,1,3220.5
+1332,4,111.87,Manicure,Absolutely loved it! The therapist was amazing.,2024-01-05,70,467.52
+1734,1,69.29,Massage,I've tried many services but this was by far the best.,2023-03-02,379,82.14
+1630,1,139.45,Manicure,The couples massage was the perfect anniversary gift.,2024-02-26,18,114.55
+1502,13,209.26,Massage,The booking was easy but the service felt a bit rushed.,2023-03-21,360,3133.33
+1335,3,112.53,Massage,This has become my monthly self-care ritual. Can't live without it!,2024-01-15,60,353.25
+1286,3,66.72,Massage,The service was fine. Met my basic expectations.,2024-01-17,58,213.12
+1019,14,295.76,Massage,The booking process was seamless and the service was top-notch.,2024-03-10,5,3725.4
+1585,1,86.68,Manicure,Perfect way to unwind after a long week. Thank you Blys!,2024-03-01,14,76.93
+1749,1,70.35,Massage,Not worth the price. I've had better at half the cost.,2023-09-10,187,66.0
+1084,18,232.58,Massage,My facial left my skin glowing. Absolutely fantastic!,2024-02-25,19,3535.36
+1062,19,294.91,Massage,My therapist was incredibly professional and skilled.,2024-02-25,19,6181.2
+1463,13,233.79,Wellness Package,This has become my monthly self-care ritual. Can't live without it!,2023-05-04,316,2881.0
+1292,2,57.57,Manicure,My go-to for wellness. Never been disappointed once.,2024-02-07,37,104.23
+1448,6,110.23,Massage,Incredible value for the quality of service provided.,2023-09-25,172,667.35
+1183,4,101.19,Manicure,The therapist was nice enough. Service was adequate.,2024-02-23,21,329.3
+1550,5,267.03,Wellness Package,The experience did not match the website description at all.,2023-04-19,331,1286.43
+1501,6,148.29,Facial,My therapist was incredibly professional and skilled.,2023-07-23,236,923.12
+1224,2,85.64,Massage,Not bad. The therapist was competent but not exceptional.,2024-01-01,74,141.42
+1425,5,127.49,Massage,The booking process was seamless and the service was top-notch.,2023-07-16,243,519.9
+1468,7,261.96,Facial,Standard massage experience. Nothing to complain about.,2023-10-29,138,1548.77
+1320,4,30.0,Facial,Reasonable service for the price. Would consider rebooking.,2024-01-03,72,100.72
+1329,3,110.94,Manicure,Fair service. The app worked well for booking.,2023-12-17,89,308.86
+1444,7,362.43,Facial,Best massage I've ever had. Will definitely rebook.,2023-03-28,353,3038.98
+1494,8,150.09,Facial,My skin reacted badly to the products used. No follow-up from support.,2023-09-14,183,1401.69
+1177,4,102.05,Manicure,Fair service. The app worked well for booking.,2023-12-19,87,338.83
+1677,1,123.04,Massage,The couples massage was the perfect anniversary gift.,2024-03-02,13,130.82
+1364,3,74.08,Manicure,Not bad. The therapist was competent but not exceptional.,2024-02-14,30,214.4
+1164,4,94.63,Facial,"Amazing service, felt so relaxed afterwards. 10/10!",2024-02-28,16,357.79
+1249,2,97.95,Facial,My skin reacted badly to the products used. No follow-up from support.,2024-01-05,70,202.59
+1519,14,262.47,Facial,The service was fine. Met my basic expectations.,2023-07-02,257,3015.61
+1711,2,152.36,Wellness Package,Incredible value for the quality of service provided.,2024-03-06,9,323.28
+1075,14,358.22,Wellness Package,Absolutely loved it! The therapist was amazing.,2024-02-22,22,4609.13
+1644,2,88.3,Manicure,The therapist was late and seemed unprepared.,2024-02-27,17,161.17
+1406,5,198.04,Wellness Package,It was a satisfactory experience. Nothing memorable.,2023-04-16,334,1018.74
+1105,15,380.92,Couples Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-02-27,17,6741.19
+1115,14,279.02,Massage,Five stars all around. The experience was flawless.,2024-02-17,27,3519.46
+1301,2,59.42,Manicure,Poor communication and the quality was below average.,2024-02-17,27,139.59
+1093,19,215.9,Couples Massage,Five stars all around. The experience was flawless.,2024-03-10,5,4288.2
+1412,8,195.66,Facial,The therapist was nice enough. Service was adequate.,2023-07-23,236,1625.59
+1090,15,251.38,Massage,Five stars all around. The experience was flawless.,2024-02-20,24,3951.89
+1529,6,339.8,Massage,Fair service. The app worked well for booking.,2023-09-26,171,2205.62
+1735,2,71.71,Massage,Not worth the price. I've had better at half the cost.,2023-02-19,390,162.49
+1744,2,92.45,Facial,Poor communication and the quality was below average.,2023-02-22,387,156.36
+1576,1,77.03,Massage,Decent quality. Probably would try again.,2024-02-28,16,63.67
+1498,13,349.8,Massage,Standard massage experience. Nothing to complain about.,2023-06-03,286,4946.04
+1495,14,191.87,Wellness Package,I was not impressed. Expected much more for the price.,2023-06-19,270,2534.23
+1012,12,297.07,Couples Massage,The booking process was seamless and the service was top-notch.,2024-02-19,25,3252.47
+1434,6,263.55,Facial,Five stars all around. The experience was flawless.,2023-06-27,262,1555.03
+1044,12,215.62,Wellness Package,Therapist arrived on time and was extremely professional.,2024-02-28,16,2360.54
+1043,10,391.15,Massage,Perfect way to unwind after a long week. Thank you Blys!,2024-03-14,1,4031.82
+1168,2,67.2,Massage,Poor communication and the quality was below average.,2024-02-08,36,152.41
+1704,1,121.04,Massage,Fair service. The app worked well for booking.,2024-02-25,19,144.53
+1614,1,80.96,Massage,Best massage I've ever had. Will definitely rebook.,2024-03-05,10,73.07
+1413,5,132.96,Wellness Package,The experience did not match the website description at all.,2023-04-03,347,709.63
+1179,3,89.64,Manicure,Such a convenient and luxurious experience. Love it!,2024-02-18,26,253.97
+1531,6,189.23,Facial,I was not impressed. Expected much more for the price.,2023-05-12,308,942.63
+1540,7,248.99,Wellness Package,The experience did not match the website description at all.,2023-03-19,362,1775.61
+1178,2,133.82,Manicure,Absolutely loved it! The therapist was amazing.,2024-01-19,56,263.32
+1666,2,114.53,Massage,My facial left my skin glowing. Absolutely fantastic!,2024-03-02,13,225.31
+1767,2,44.39,Massage,Poor communication and the quality was below average.,2023-09-03,194,98.65
+1258,2,90.51,Manicure,The service was rushed and I felt like just another number.,2024-01-28,47,188.3
+1766,1,50.17,Facial,The therapist was late and seemed unprepared.,2023-05-05,315,51.65
+1544,8,353.65,Facial,Okay experience. Not the best I've had but not the worst.,2023-10-01,166,3153.73
+1016,10,296.14,Massage,Perfect way to unwind after a long week. Thank you Blys!,2024-02-22,22,3420.08
+1004,19,304.68,Massage,My therapist was incredibly professional and skilled.,2024-02-15,29,5631.33
+1336,2,63.4,Massage,Best massage I've ever had. Will definitely rebook.,2024-02-21,23,129.55
+1257,3,61.25,Manicure,Therapist arrived on time and was extremely professional.,2024-01-14,61,188.94
+1581,1,83.06,Massage,Reasonable service for the price. Would consider rebooking.,2024-03-07,8,86.37
+1446,13,274.61,Facial,Such a convenient and luxurious experience. Love it!,2023-07-06,253,3855.57
+1339,3,86.55,Facial,My facial left my skin glowing. Absolutely fantastic!,2024-01-07,68,279.97
+1479,14,170.12,Wellness Package,Good experience overall. Average pricing.,2023-03-25,356,2840.54
+1418,13,276.18,Wellness Package,The therapist was late and seemed unprepared.,2023-09-01,196,3489.71
+1639,1,161.98,Massage,Okay experience. Not the best I've had but not the worst.,2024-03-14,1,144.94
+1715,1,139.86,Manicure,The therapist was late and seemed unprepared.,2024-03-13,2,149.02
+1325,3,67.32,Facial,Exceeded my expectations. The therapist really listened to my needs.,2024-01-06,69,169.24
+1458,13,330.71,Wellness Package,My skin reacted badly to the products used. No follow-up from support.,2023-09-08,189,4999.49
+1010,9,314.39,Massage,The therapist was nice enough. Service was adequate.,2024-03-13,2,2710.84
+1250,4,72.39,Massage,Such a convenient and luxurious experience. Love it!,2024-02-28,16,245.89
+1023,16,225.65,Wellness Package,Okay experience. Not the best I've had but not the worst.,2024-02-19,25,4069.66
+1222,3,99.82,Massage,This has become my monthly self-care ritual. Can't live without it!,2024-02-27,17,335.01
+1548,9,313.73,Wellness Package,My facial left my skin glowing. Absolutely fantastic!,2023-11-29,107,3190.34
+1691,2,135.77,Massage,Five stars all around. The experience was flawless.,2024-03-13,2,223.95
+1785,2,69.08,Massage,Therapist cancelled last minute. Very frustrating.,2023-05-04,316,151.69
+1627,2,172.27,Wellness Package,Good experience overall. Average pricing.,2024-03-09,6,327.25
+1341,4,138.08,Facial,Decent quality. Probably would try again.,2024-01-03,72,565.9
+1672,1,98.2,Facial,Absolutely loved it! The therapist was amazing.,2024-03-02,13,99.44
+1204,2,54.45,Facial,Not worth the price. I've had better at half the cost.,2024-02-02,42,90.44
+1238,3,96.2,Facial,Incredible value for the quality of service provided.,2023-12-31,75,239.21
+1094,15,378.9,Couples Massage,Perfect way to unwind after a long week. Thank you Blys!,2024-02-17,27,4649.6
+1532,13,142.22,Facial,I've tried many services but this was by far the best.,2023-08-31,197,1817.82
+1363,3,62.28,Manicure,The service was rushed and I felt like just another number.,2024-02-25,19,220.15
+1545,10,293.18,Facial,Standard massage experience. Nothing to complain about.,2023-06-21,268,3249.31
+1285,2,94.32,Massage,Incredible value for the quality of service provided.,2024-01-17,58,175.38
+1185,3,101.15,Facial,The booking process was seamless and the service was top-notch.,2024-01-02,73,343.37
+1650,2,129.5,Manicure,This has become my monthly self-care ritual. Can't live without it!,2024-03-12,3,237.69
+1397,4,86.91,Manicure,Booking process was confusing and the service was mediocre.,2024-02-21,23,371.17
+1154,15,281.99,Couples Massage,Wonderful experience from start to finish. Highly recommend!,2024-03-14,1,3908.27
+1076,11,153.02,Couples Massage,I've tried many services but this was by far the best.,2024-03-06,9,1916.95
+1454,8,192.57,Wellness Package,Such a convenient and luxurious experience. Love it!,2023-11-25,111,1579.56
+1696,1,88.5,Couples Massage,"Amazing service, felt so relaxed afterwards. 10/10!",2024-03-11,4,95.36
+1278,4,79.98,Massage,This has become my monthly self-care ritual. Can't live without it!,2024-01-06,69,331.0
+1069,19,210.31,Couples Massage,Absolutely loved it! The therapist was amazing.,2024-02-15,29,3347.67
+1515,5,144.99,Wellness Package,Okay experience. Not the best I've had but not the worst.,2023-07-01,258,636.58
+1189,3,83.07,Manicure,Poor communication and the quality was below average.,2024-02-17,27,252.09
+1272,2,93.63,Massage,Booking process was confusing and the service was mediocre.,2023-12-17,89,159.04
+1237,4,33.39,Facial,It was a satisfactory experience. Nothing memorable.,2024-01-05,70,158.93
+1089,8,319.97,Couples Massage,The therapist was late and seemed unprepared.,2024-02-19,25,2984.94
+1763,2,64.58,Massage,Such a convenient and luxurious experience. Love it!,2023-01-10,430,137.76
+1118,8,189.29,Couples Massage,Incredible value for the quality of service provided.,2024-02-18,26,1535.72
+1126,11,219.16,Massage,The booking process was seamless and the service was top-notch.,2024-02-29,15,2610.59
+1661,2,94.57,Wellness Package,Best massage I've ever had. Will definitely rebook.,2024-02-29,15,162.23
+1290,3,125.23,Massage,Standard massage experience. Nothing to complain about.,2023-12-27,79,427.09
+1239,2,125.8,Manicure,My go-to for wellness. Never been disappointed once.,2024-01-24,51,236.09
+1001,14,357.29,Couples Massage,My therapist was incredibly professional and skilled.,2024-02-23,21,4313.81
+1792,1,101.11,Massage,The therapist was nice enough. Service was adequate.,2023-05-12,308,94.13
+1603,2,128.91,Manicure,Okay experience. Not the best I've had but not the worst.,2024-03-01,14,212.51
+1795,1,42.05,Massage,Booking process was confusing and the service was mediocre.,2023-09-03,194,40.16
+1466,6,209.65,Massage,Booking process was confusing and the service was mediocre.,2023-03-28,353,1334.2
+1279,4,147.87,Facial,Fair service. The app worked well for booking.,2024-02-08,36,478.78
+1625,1,158.7,Wellness Package,Five stars all around. The experience was flawless.,2024-03-09,6,181.22
+1117,13,271.0,Massage,My therapist was incredibly professional and skilled.,2024-03-10,5,3075.27
+1229,3,119.65,Facial,My go-to for wellness. Never been disappointed once.,2024-01-31,44,291.93
+1757,1,88.83,Facial,My therapist was incredibly professional and skilled.,2022-12-21,450,92.75
+1421,10,267.48,Massage,The booking process was seamless and the service was top-notch.,2023-07-14,245,2600.47
+1435,10,305.85,Massage,Absolutely loved it! The therapist was amazing.,2023-11-27,109,3017.86
+1275,4,134.69,Massage,"It was okay, nothing special but decent service.",2024-02-21,23,602.06
+1319,2,74.06,Facial,Too expensive for what you get. Disappointing.,2024-02-19,25,176.01
+1552,8,191.61,Massage,Okay experience. Not the best I've had but not the worst.,2023-06-04,285,1793.2
+1145,15,273.43,Wellness Package,The booking process was seamless and the service was top-notch.,2024-02-16,28,4253.96
+1649,1,88.87,Couples Massage,The service was fine. Met my basic expectations.,2024-03-05,10,103.26
+1736,1,61.35,Facial,The service was rushed and I felt like just another number.,2022-12-25,446,64.73
+1727,1,54.94,Massage,My go-to for wellness. Never been disappointed once.,2023-05-12,308,50.87
+1586,2,58.43,Facial,Perfect way to unwind after a long week. Thank you Blys!,2024-02-29,15,131.9
+1370,4,124.53,Massage,My go-to for wellness. Never been disappointed once.,2024-02-11,33,486.38
+1269,2,114.43,Manicure,Good experience overall. Average pricing.,2024-02-15,29,201.14
+1568,2,78.92,Wellness Package,Okay experience. Not the best I've had but not the worst.,2024-03-06,9,160.09
+1308,4,97.98,Massage,The service was fine. Met my basic expectations.,2024-02-25,19,315.27
+1311,2,30.0,Manicure,The booking process was seamless and the service was top-notch.,2024-01-09,66,54.38
+1452,7,200.31,Wellness Package,Poor communication and the quality was below average.,2023-05-17,303,1227.09
+1047,10,391.82,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-02-21,23,3555.34
+1350,3,68.75,Manicure,"Amazing service, felt so relaxed afterwards. 10/10!",2023-12-23,83,234.46
+1372,3,76.7,Massage,Decent quality. Probably would try again.,2024-01-19,56,225.28
+1524,5,325.45,Facial,The service was fine. Met my basic expectations.,2023-12-12,94,1778.71
+1262,3,125.91,Massage,Therapist cancelled last minute. Very frustrating.,2024-02-07,37,368.0
+1196,2,120.0,Manicure,This has become my monthly self-care ritual. Can't live without it!,2023-12-21,85,287.15
+1800,2,80.02,Massage,Not worth the price. I've had better at half the cost.,2023-06-07,282,190.55
+1673,1,50.38,Wellness Package,"Amazing service, felt so relaxed afterwards. 10/10!",2024-02-28,16,56.98
+1108,16,256.0,Massage,Wonderful experience from start to finish. Highly recommend!,2024-02-28,16,3525.68
+1060,8,248.69,Massage,My go-to for wellness. Never been disappointed once.,2024-02-22,22,2160.3
+1600,1,168.18,Wellness Package,Booking process was confusing and the service was mediocre.,2024-02-26,18,141.95
+1440,7,170.39,Wellness Package,Poor communication and the quality was below average.,2023-08-23,205,955.7
+1101,13,371.9,Wellness Package,Good experience overall. Average pricing.,2024-03-03,12,4952.55
+1478,6,268.64,Wellness Package,Such a convenient and luxurious experience. Love it!,2023-11-19,117,1790.39
+1719,1,145.41,Wellness Package,The service was fine. Met my basic expectations.,2024-03-14,1,165.04
+1584,2,136.77,Facial,The therapist was nice enough. Service was adequate.,2024-02-29,15,288.5
+1738,1,65.72,Facial,"It was okay, nothing special but decent service.",2023-07-28,231,71.77
+1180,4,131.29,Manicure,Good experience overall. Average pricing.,2024-02-13,31,619.74
+1305,2,49.3,Massage,Reasonable service for the price. Would consider rebooking.,2024-02-14,30,81.34
+1430,14,135.11,Massage,Reasonable service for the price. Would consider rebooking.,2023-11-26,110,2244.44
+1508,14,172.44,Wellness Package,I've tried many services but this was by far the best.,2023-06-10,279,2721.27
+1771,2,97.56,Facial,Wonderful experience from start to finish. Highly recommend!,2023-05-04,316,188.52
+1150,14,211.92,Couples Massage,My go-to for wellness. Never been disappointed once.,2024-03-13,2,3463.48
+1125,17,210.06,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-02-22,22,3872.35
+1635,2,150.32,Wellness Package,Okay experience. Not the best I've had but not the worst.,2024-03-07,8,267.78
+1698,2,152.28,Wellness Package,My facial left my skin glowing. Absolutely fantastic!,2024-03-10,5,344.44
+1186,4,65.57,Manicure,The experience did not match the website description at all.,2024-01-01,74,260.29
+1542,9,146.26,Massage,I was not impressed. Expected much more for the price.,2023-05-28,292,1294.72
+1051,17,356.91,Couples Massage,My facial left my skin glowing. Absolutely fantastic!,2024-03-02,13,5052.0
+1488,6,282.97,Facial,I was not impressed. Expected much more for the price.,2023-04-16,334,2005.39
+1790,2,44.95,Facial,Not worth the price. I've had better at half the cost.,2023-01-24,416,81.04
+1486,12,292.52,Massage,Incredible value for the quality of service provided.,2023-09-18,179,3541.89
+1322,4,47.15,Manicure,It was a satisfactory experience. Nothing memorable.,2023-12-24,82,209.32
+1354,3,61.15,Facial,The service was rushed and I felt like just another number.,2024-02-23,21,164.88
+1740,2,112.88,Facial,The therapist was late and seemed unprepared.,2022-12-23,448,249.83
+1143,11,346.77,Wellness Package,Five stars all around. The experience was flawless.,2024-03-05,10,3574.2
+1371,3,75.64,Manicure,My facial left my skin glowing. Absolutely fantastic!,2023-12-20,86,253.96
+1142,19,380.56,Wellness Package,Such a convenient and luxurious experience. Love it!,2024-02-17,27,7638.88
+1400,2,102.63,Facial,Exceeded my expectations. The therapist really listened to my needs.,2024-02-26,18,219.75
+1264,2,41.97,Manicure,My facial left my skin glowing. Absolutely fantastic!,2024-01-26,49,74.78
+1321,3,66.41,Facial,Decent quality. Probably would try again.,2024-02-05,39,237.16
+1020,18,209.48,Wellness Package,My therapist was incredibly professional and skilled.,2024-03-02,13,3132.62
+1173,2,67.45,Facial,Wonderful experience from start to finish. Highly recommend!,2024-01-07,68,147.74
+1654,1,133.02,Manicure,Overpriced and underwhelming. Won't be coming back.,2024-03-09,6,142.71
+1313,4,63.19,Facial,My facial left my skin glowing. Absolutely fantastic!,2024-02-09,35,298.89
+1391,2,103.37,Facial,Perfect way to unwind after a long week. Thank you Blys!,2024-02-11,33,237.57
+1746,2,93.29,Facial,I was not impressed. Expected much more for the price.,2022-11-02,499,209.99
+1013,16,195.93,Couples Massage,Incredible value for the quality of service provided.,2024-03-07,8,2514.83
+1408,11,249.28,Facial,Overpriced and underwhelming. Won't be coming back.,2023-11-08,128,2735.0
+1409,7,245.85,Wellness Package,Poor communication and the quality was below average.,2023-10-06,161,2001.54
+1306,4,61.49,Facial,The booking was easy but the service felt a bit rushed.,2024-01-09,66,213.86
+1355,3,64.48,Facial,The booking was easy but the service felt a bit rushed.,2023-12-22,84,159.81
+1026,8,205.77,Couples Massage,My therapist was incredibly professional and skilled.,2024-03-03,12,1482.72
+1598,1,164.0,Manicure,It was a satisfactory experience. Nothing memorable.,2024-03-01,14,155.57
+1170,2,86.46,Massage,The therapist was nice enough. Service was adequate.,2024-02-13,31,166.37
+1039,16,153.89,Couples Massage,I was not impressed. Expected much more for the price.,2024-02-22,22,2411.44
+1176,2,85.86,Facial,Such a convenient and luxurious experience. Love it!,2024-01-25,50,174.46
+1246,2,47.91,Facial,Incredible value for the quality of service provided.,2024-01-30,45,85.7
+1299,2,151.57,Facial,Exceeded my expectations. The therapist really listened to my needs.,2024-01-07,68,343.07
+1669,2,150.58,Massage,Would not recommend. The whole experience felt unprofessional.,2024-02-29,15,314.75
+1417,7,220.44,Massage,The booking process was seamless and the service was top-notch.,2023-05-18,302,1733.2
+1549,14,125.42,Facial,Therapist arrived on time and was extremely professional.,2023-10-17,150,1734.48
+1273,4,77.74,Manicure,I was not impressed. Expected much more for the price.,2024-01-19,56,271.81
+1612,2,89.56,Couples Massage,I've tried many services but this was by far the best.,2024-03-05,10,148.66
+1155,10,200.75,Couples Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-02-15,29,2107.86
+1127,13,294.32,Couples Massage,This has become my monthly self-care ritual. Can't live without it!,2024-03-04,11,3969.84
+1450,12,197.34,Facial,Not bad. The therapist was competent but not exceptional.,2023-05-16,304,2774.66
+1572,1,191.92,Couples Massage,"It was okay, nothing special but decent service.",2024-02-26,18,182.36
+1342,3,85.28,Facial,Wonderful experience from start to finish. Highly recommend!,2024-01-31,44,287.05
+1431,7,162.87,Massage,"It was okay, nothing special but decent service.",2023-03-19,362,1247.07
+1288,4,75.9,Facial,Best massage I've ever had. Will definitely rebook.,2024-01-06,69,307.95
+1114,11,199.02,Couples Massage,Five stars all around. The experience was flawless.,2024-02-20,24,2175.67
+1500,14,339.66,Wellness Package,The experience did not match the website description at all.,2023-08-07,221,5369.92
+1174,4,67.57,Massage,The booking was easy but the service felt a bit rushed.,2024-02-09,35,306.72
+1360,2,71.97,Manicure,Therapist arrived on time and was extremely professional.,2024-01-28,47,123.86
+1483,6,205.99,Facial,The therapist was nice enough. Service was adequate.,2023-10-16,151,1387.7
+1058,10,355.13,Couples Massage,Therapist arrived on time and was extremely professional.,2024-02-25,19,3464.61
+1553,14,222.91,Wellness Package,Booking process was confusing and the service was mediocre.,2023-10-26,141,3585.9
+1223,3,91.82,Facial,Reasonable service for the price. Would consider rebooking.,2023-12-21,85,234.16
+1281,2,72.72,Manicure,Therapist arrived on time and was extremely professional.,2024-01-22,53,158.5
+1018,16,338.71,Wellness Package,I've tried many services but this was by far the best.,2024-02-18,26,4390.59
+1128,15,165.44,Massage,Incredible value for the quality of service provided.,2024-02-21,23,2530.16
+1323,3,78.85,Manicure,Would not recommend. The whole experience felt unprofessional.,2024-01-25,50,216.95
+1256,3,55.72,Massage,Therapist cancelled last minute. Very frustrating.,2023-12-27,79,189.77
+1539,9,306.26,Massage,Reasonable service for the price. Would consider rebooking.,2023-09-15,182,2770.37
+1471,8,130.35,Facial,My skin reacted badly to the products used. No follow-up from support.,2023-06-12,277,1000.11
+1599,1,102.17,Wellness Package,This has become my monthly self-care ritual. Can't live without it!,2024-03-09,6,105.98
+1469,9,282.63,Massage,Exceeded my expectations. The therapist really listened to my needs.,2023-04-03,347,2054.6
+1769,2,33.23,Massage,Therapist cancelled last minute. Very frustrating.,2022-12-13,458,79.47
+1191,2,91.6,Massage,Incredible value for the quality of service provided.,2024-02-20,24,153.28
+1116,14,279.83,Wellness Package,Not bad. The therapist was competent but not exceptional.,2024-02-29,15,3181.85
+1517,11,243.6,Wellness Package,Too expensive for what you get. Disappointing.,2023-09-08,189,2986.37
+1710,2,136.81,Manicure,My therapist was incredibly professional and skilled.,2024-03-09,6,234.59
+1536,13,136.72,Massage,Decent quality. Probably would try again.,2023-10-10,157,2087.52
+1095,8,349.51,Wellness Package,My go-to for wellness. Never been disappointed once.,2024-03-04,11,2901.36
+1181,4,75.34,Massage,I was not impressed. Expected much more for the price.,2023-12-22,84,359.29
+1302,2,58.21,Manicure,Exceeded my expectations. The therapist really listened to my needs.,2024-02-24,20,93.15
+1617,1,106.84,Wellness Package,"Amazing service, felt so relaxed afterwards. 10/10!",2024-03-12,3,85.61
+1582,2,153.82,Wellness Package,The couples massage was the perfect anniversary gift.,2024-03-03,12,337.88
+1591,2,158.64,Facial,Poor communication and the quality was below average.,2024-03-09,6,265.87
+1732,2,70.74,Facial,Overpriced and underwhelming. Won't be coming back.,2022-12-17,454,154.51
+1559,10,307.18,Massage,Poor communication and the quality was below average.,2023-05-22,298,2966.38
+1709,1,112.44,Manicure,Therapist arrived on time and was extremely professional.,2024-03-13,2,124.4
+1543,14,231.55,Facial,Reasonable service for the price. Would consider rebooking.,2023-08-01,227,3740.88
+1006,16,159.15,Couples Massage,Wonderful experience from start to finish. Highly recommend!,2024-02-25,19,2730.05
+1786,1,82.49,Facial,Would not recommend. The whole experience felt unprofessional.,2023-05-29,291,70.3
+1046,16,391.13,Couples Massage,The experience did not match the website description at all.,2024-02-15,29,6078.31
+1726,1,92.09,Facial,The couples massage was the perfect anniversary gift.,2023-05-08,312,92.62
+1158,14,333.01,Couples Massage,Best massage I've ever had. Will definitely rebook.,2024-03-05,10,4234.61
+1606,2,183.04,Manicure,I've tried many services but this was by far the best.,2024-03-04,11,379.67
+1172,2,86.86,Facial,Not worth the price. I've had better at half the cost.,2023-12-21,85,178.81
+1017,12,399.94,Couples Massage,Incredible value for the quality of service provided.,2024-02-21,23,5319.46
+1512,10,172.48,Facial,Poor communication and the quality was below average.,2023-10-30,137,1584.44
+1049,15,185.01,Wellness Package,I've tried many services but this was by far the best.,2024-02-17,27,2547.91
+1775,1,88.22,Massage,The booking was easy but the service felt a bit rushed.,2023-04-24,326,105.6
+1758,2,37.23,Facial,My skin reacted badly to the products used. No follow-up from support.,2023-01-02,438,65.21
+1481,10,233.05,Wellness Package,The service was rushed and I felt like just another number.,2023-04-19,331,2507.71
+1284,2,93.01,Manicure,Absolutely loved it! The therapist was amazing.,2024-01-01,74,208.37
+1537,7,357.11,Massage,My go-to for wellness. Never been disappointed once.,2023-09-02,195,2739.16
+1226,3,82.98,Massage,Decent quality. Probably would try again.,2024-01-23,52,228.19
+1027,8,186.06,Wellness Package,Good experience overall. Average pricing.,2024-02-21,23,1356.69
+1631,1,46.94,Massage,Therapist arrived on time and was extremely professional.,2024-02-27,17,43.07
+1438,11,227.83,Wellness Package,The booking was easy but the service felt a bit rushed.,2023-05-28,292,2925.89
+1365,3,65.81,Massage,Such a convenient and luxurious experience. Love it!,2024-01-02,73,194.21
+1230,3,73.92,Facial,Fair service. The app worked well for booking.,2024-01-23,52,227.75
+1038,15,319.86,Wellness Package,Not bad. The therapist was competent but not exceptional.,2024-03-12,3,4552.79
+1780,2,74.72,Massage,The booking was easy but the service felt a bit rushed.,2023-08-21,207,159.93
+1375,2,114.07,Manicure,This has become my monthly self-care ritual. Can't live without it!,2023-12-29,77,226.8
+1470,14,124.48,Wellness Package,My skin reacted badly to the products used. No follow-up from support.,2023-08-28,200,1624.38
+1772,1,30.41,Facial,The service was rushed and I felt like just another number.,2023-01-12,428,25.53
+1683,2,87.83,Massage,Wonderful experience from start to finish. Highly recommend!,2024-03-14,1,170.81
+1695,2,110.65,Massage,The booking was easy but the service felt a bit rushed.,2024-03-02,13,254.11
+1195,2,72.24,Facial,The service was fine. Met my basic expectations.,2023-12-29,77,170.18
+1685,2,108.15,Wellness Package,My go-to for wellness. Never been disappointed once.,2024-03-02,13,221.96
+1694,2,154.04,Manicure,Wonderful experience from start to finish. Highly recommend!,2024-03-10,5,257.54
+1504,11,148.64,Wellness Package,Such a convenient and luxurious experience. Love it!,2023-08-23,205,1586.14
+1774,2,74.7,Massage,Poor communication and the quality was below average.,2022-11-21,480,147.91
+1670,2,131.77,Facial,The booking process was seamless and the service was top-notch.,2024-03-12,3,248.22
+1773,2,53.71,Massage,Therapist cancelled last minute. Very frustrating.,2023-04-23,327,93.63
+1163,3,45.47,Massage,Reasonable service for the price. Would consider rebooking.,2024-02-28,16,158.82
+1752,1,86.71,Facial,Fair service. The app worked well for booking.,2023-08-10,218,86.8
+1153,12,278.24,Massage,Wonderful experience from start to finish. Highly recommend!,2024-02-24,20,3224.86
+1558,11,191.27,Facial,My skin reacted badly to the products used. No follow-up from support.,2023-04-14,336,1684.85
+1573,1,76.52,Couples Massage,Wonderful experience from start to finish. Highly recommend!,2024-03-01,14,72.62
+1676,1,90.44,Massage,"Amazing service, felt so relaxed afterwards. 10/10!",2024-03-05,10,83.74
+1112,17,307.07,Couples Massage,Five stars all around. The experience was flawless.,2024-03-06,9,4368.86
+1227,2,120.56,Facial,I've tried many services but this was by far the best.,2024-01-10,65,203.02
+1793,2,39.69,Massage,The experience did not match the website description at all.,2023-08-04,224,82.17
+1104,18,184.79,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-03-13,2,3124.33
+1422,12,317.47,Facial,Five stars all around. The experience was flawless.,2023-10-31,136,3283.09
+1420,11,209.11,Facial,The service was fine. Met my basic expectations.,2023-10-30,137,1851.49
+1120,9,269.82,Wellness Package,This has become my monthly self-care ritual. Can't live without it!,2024-03-07,8,2362.0
+1054,17,279.52,Massage,Reasonable service for the price. Would consider rebooking.,2024-02-15,29,5396.06
+1152,8,236.51,Couples Massage,Wonderful experience from start to finish. Highly recommend!,2024-03-04,11,1992.18
+1404,13,195.65,Massage,Good experience overall. Average pricing.,2023-04-20,330,2668.1
+1754,1,53.96,Facial,Decent quality. Probably would try again.,2023-06-23,266,50.2
+1208,4,84.67,Manicure,Booking process was confusing and the service was mediocre.,2024-01-01,74,292.43
+1678,2,169.66,Facial,Okay experience. Not the best I've had but not the worst.,2024-03-01,14,286.06
+1619,2,95.56,Wellness Package,It was a satisfactory experience. Nothing memorable.,2024-02-26,18,203.9
+1009,9,318.76,Massage,The booking process was seamless and the service was top-notch.,2024-03-05,10,2946.53
+1652,2,195.31,Couples Massage,"Amazing service, felt so relaxed afterwards. 10/10!",2024-02-28,16,420.47
+1037,11,381.04,Massage,The couples massage was the perfect anniversary gift.,2024-03-04,11,4921.82
+1453,14,245.02,Wellness Package,Okay experience. Not the best I've had but not the worst.,2023-07-10,249,3466.34
+1254,4,59.65,Manicure,I was not impressed. Expected much more for the price.,2024-01-16,59,204.58
+1304,4,121.01,Massage,Such a convenient and luxurious experience. Love it!,2023-12-19,87,470.55
+1607,2,147.42,Massage,Best massage I've ever had. Will definitely rebook.,2024-02-28,16,317.33
+1580,2,134.13,Massage,My facial left my skin glowing. Absolutely fantastic!,2024-03-05,10,247.54
+1588,1,83.07,Couples Massage,Fair service. The app worked well for booking.,2024-03-09,6,80.25
+1263,3,68.94,Manicure,Okay experience. Not the best I've had but not the worst.,2024-02-09,35,196.93
+1298,3,89.57,Facial,Standard massage experience. Nothing to complain about.,2024-02-05,39,276.79
+1415,13,266.61,Wellness Package,Reasonable service for the price. Would consider rebooking.,2023-07-15,244,3800.02
+1151,18,259.42,Massage,Best massage I've ever had. Will definitely rebook.,2024-03-08,7,4044.8
+1637,1,78.6,Wellness Package,My therapist was incredibly professional and skilled.,2024-03-06,9,73.44
+1713,2,58.1,Wellness Package,The couples massage was the perfect anniversary gift.,2024-03-06,9,114.59
+1551,9,168.76,Massage,It was a satisfactory experience. Nothing memorable.,2023-08-30,198,1717.19
+1489,12,184.25,Massage,The therapist was late and seemed unprepared.,2023-09-14,183,2335.36
+1148,13,272.28,Massage,Best massage I've ever had. Will definitely rebook.,2024-03-07,8,3692.4
+1147,19,234.2,Couples Massage,The booking was easy but the service felt a bit rushed.,2024-03-11,4,3781.73
+1589,1,128.31,Facial,Five stars all around. The experience was flawless.,2024-03-09,6,124.67
+1743,1,59.95,Massage,Therapist arrived on time and was extremely professional.,2023-04-07,343,51.94
+1602,1,152.48,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-03-11,4,147.22
+1349,3,97.49,Massage,Absolutely loved it! The therapist was amazing.,2024-01-10,65,344.02
+1464,13,150.28,Facial,Overpriced and underwhelming. Won't be coming back.,2023-05-02,318,2205.41
+1326,3,77.6,Facial,Therapist cancelled last minute. Very frustrating.,2024-02-08,36,211.74
+1187,4,69.88,Massage,Fair service. The app worked well for booking.,2024-02-15,29,313.51
+1124,15,332.9,Couples Massage,My facial left my skin glowing. Absolutely fantastic!,2024-02-19,25,5429.85
+1684,1,97.8,Manicure,This has become my monthly self-care ritual. Can't live without it!,2024-02-25,19,112.94
+1144,14,270.87,Massage,Not bad. The therapist was competent but not exceptional.,2024-03-01,14,3966.54
+1764,1,49.05,Massage,The service was fine. Met my basic expectations.,2022-12-26,445,43.21
+1198,2,99.88,Manicure,Too expensive for what you get. Disappointing.,2024-02-27,17,225.83
+1280,4,59.89,Manicure,Not bad. The therapist was competent but not exceptional.,2024-02-20,24,216.26
+1294,3,61.93,Facial,Standard massage experience. Nothing to complain about.,2024-01-26,49,207.06
+1401,8,241.0,Facial,Standard massage experience. Nothing to complain about.,2023-06-06,283,1751.83
+1123,14,283.91,Massage,Therapist arrived on time and was extremely professional.,2024-02-29,15,4478.85
+1184,2,102.57,Massage,I was not impressed. Expected much more for the price.,2023-12-20,86,243.79
+1203,3,57.9,Manicure,The service was fine. Met my basic expectations.,2024-02-25,19,142.35
+1439,5,318.26,Massage,"It was okay, nothing special but decent service.",2023-06-25,264,1759.68
+1247,3,102.43,Massage,Fair service. The app worked well for booking.,2024-02-29,15,301.07
+1416,7,252.36,Wellness Package,Not bad. The therapist was competent but not exceptional.,2023-04-03,347,1421.49
+1712,2,55.97,Wellness Package,Fair service. The app worked well for booking.,2024-02-26,18,91.57
+1130,13,236.01,Wellness Package,Exceeded my expectations. The therapist really listened to my needs.,2024-02-27,17,3498.56
+1403,6,194.05,Wellness Package,Standard massage experience. Nothing to complain about.,2023-08-03,225,1042.68
+1633,1,135.44,Couples Massage,Good experience overall. Average pricing.,2024-02-28,16,141.68
+1624,2,133.3,Wellness Package,Perfect way to unwind after a long week. Thank you Blys!,2024-03-01,14,282.04
+1728,1,69.6,Massage,Not worth the price. I've had better at half the cost.,2023-07-26,233,68.04
+1220,2,55.53,Facial,"It was okay, nothing special but decent service.",2024-02-05,39,120.61
+1730,2,95.01,Massage,The couples massage was the perfect anniversary gift.,2023-09-10,187,175.98
+1610,2,101.36,Couples Massage,The couples massage was the perfect anniversary gift.,2024-03-08,7,197.48
+1733,1,69.11,Massage,Therapist cancelled last minute. Very frustrating.,2023-05-30,290,72.35
+1618,1,84.99,Massage,Such a convenient and luxurious experience. Love it!,2024-03-05,10,95.95
+1387,2,106.58,Facial,Okay experience. Not the best I've had but not the worst.,2024-02-24,20,227.72
+1776,2,116.75,Facial,Okay experience. Not the best I've had but not the worst.,2023-08-04,224,207.78
+1510,9,241.0,Wellness Package,The therapist was nice enough. Service was adequate.,2023-04-20,330,2065.49
+1268,4,43.28,Manicure,Not worth the price. I've had better at half the cost.,2024-02-07,37,168.33
+1782,1,85.72,Facial,The service was rushed and I felt like just another number.,2023-05-26,294,91.52
+1442,10,234.07,Wellness Package,Standard massage experience. Nothing to complain about.,2023-06-29,260,2689.04
+1497,14,301.1,Facial,Poor communication and the quality was below average.,2023-06-07,282,3667.77
+1113,13,168.75,Massage,"Amazing service, felt so relaxed afterwards. 10/10!",2024-03-14,1,1829.16
+1233,3,101.54,Facial,The service was fine. Met my basic expectations.,2024-02-23,21,324.22
+1699,1,151.54,Manicure,Okay experience. Not the best I've had but not the worst.,2024-03-11,4,174.94
+1608,2,174.64,Couples Massage,Five stars all around. The experience was flawless.,2024-02-29,15,374.91
+1374,4,65.87,Facial,The experience did not match the website description at all.,2023-12-22,84,312.78
+1234,3,126.83,Manicure,I've tried many services but this was by far the best.,2024-02-04,40,377.58
+1634,1,99.82,Manicure,The couples massage was the perfect anniversary gift.,2024-03-08,7,117.2
+1318,4,121.96,Manicure,Therapist arrived on time and was extremely professional.,2024-01-10,65,404.18
+1411,13,268.55,Wellness Package,Decent quality. Probably would try again.,2023-07-24,235,2952.8
+1718,2,79.7,Massage,It was a satisfactory experience. Nothing memorable.,2024-03-11,4,190.74
+1359,3,47.58,Massage,I was not impressed. Expected much more for the price.,2024-01-12,63,140.68
+1259,3,66.0,Massage,Such a convenient and luxurious experience. Love it!,2023-12-26,80,237.55
+1628,1,173.95,Manicure,Good experience overall. Average pricing.,2024-03-03,12,177.9
+1283,2,103.87,Massage,"Amazing service, felt so relaxed afterwards. 10/10!",2023-12-22,84,195.69
+1377,4,61.85,Facial,Not worth the price. I've had better at half the cost.,2023-12-24,82,269.11
+1385,3,118.7,Massage,I was not impressed. Expected much more for the price.,2023-12-29,77,333.36
+1225,2,95.77,Massage,Fair service. The app worked well for booking.,2023-12-20,86,188.83
+1760,1,69.05,Facial,Too expensive for what you get. Disappointing.,2023-08-27,201,61.27
+1658,2,163.52,Manicure,Exceeded my expectations. The therapist really listened to my needs.,2024-03-10,5,274.55
+1473,10,133.99,Massage,The therapist was nice enough. Service was adequate.,2023-07-08,251,1169.32
+1348,2,134.91,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-02-27,17,218.68
+1506,9,190.42,Facial,Best massage I've ever had. Will definitely rebook.,2023-12-14,92,1976.15
+1640,1,173.17,Couples Massage,My facial left my skin glowing. Absolutely fantastic!,2024-03-09,6,163.88
+1789,2,94.79,Facial,Booking process was confusing and the service was mediocre.,2023-04-19,331,154.01
+1741,1,107.4,Massage,The service was rushed and I felt like just another number.,2023-09-11,186,105.43
+1723,2,94.2,Facial,My skin reacted badly to the products used. No follow-up from support.,2022-12-31,440,158.51
+1620,1,67.53,Manicure,The service was fine. Met my basic expectations.,2024-02-29,15,68.56
+1686,2,163.51,Couples Massage,My therapist was incredibly professional and skilled.,2024-03-01,14,313.04
+1646,2,78.16,Massage,I was not impressed. Expected much more for the price.,2024-03-14,1,130.62
+1679,2,89.29,Wellness Package,Absolutely loved it! The therapist was amazing.,2024-03-06,9,164.9
+1557,13,117.54,Wellness Package,Therapist cancelled last minute. Very frustrating.,2023-09-21,176,1331.98
+1578,2,153.64,Manicure,Perfect way to unwind after a long week. Thank you Blys!,2024-03-08,7,327.25
+1086,16,231.31,Massage,The couples massage was the perfect anniversary gift.,2024-02-27,17,3083.48
+1243,3,67.43,Manicure,Therapist cancelled last minute. Very frustrating.,2024-01-20,55,181.84
+1160,18,291.74,Wellness Package,My go-to for wellness. Never been disappointed once.,2024-03-07,8,4419.74
+1525,10,166.74,Wellness Package,Absolutely loved it! The therapist was amazing.,2023-11-28,108,1785.81
+1036,14,231.67,Wellness Package,The couples massage was the perfect anniversary gift.,2024-03-12,3,3503.31
+1541,6,289.62,Facial,Reasonable service for the price. Would consider rebooking.,2023-10-31,136,1410.68
+1171,4,51.1,Massage,The therapist was nice enough. Service was adequate.,2024-01-30,45,234.97
+1655,2,113.39,Manicure,I've tried many services but this was by far the best.,2024-03-10,5,213.64
+1688,1,159.5,Facial,Best massage I've ever had. Will definitely rebook.,2024-03-08,7,136.24
+1680,2,184.41,Facial,Reasonable service for the price. Would consider rebooking.,2024-03-12,3,417.28
+1753,2,85.04,Facial,Standard massage experience. Nothing to complain about.,2023-08-31,197,156.95
+1096,13,357.08,Couples Massage,Incredible value for the quality of service provided.,2024-02-27,17,5270.25
+1564,2,115.28,Manicure,Absolutely loved it! The therapist was amazing.,2024-03-14,1,242.68
+1241,3,100.84,Manicure,The booking process was seamless and the service was top-notch.,2024-01-03,72,352.42
+1575,1,110.24,Wellness Package,Not bad. The therapist was competent but not exceptional.,2024-03-06,9,88.43
+1461,9,326.36,Facial,The therapist was late and seemed unprepared.,2023-11-26,110,2908.35
+1554,11,319.31,Wellness Package,"It was okay, nothing special but decent service.",2023-11-11,125,3698.17
+1705,1,81.8,Couples Massage,It was a satisfactory experience. Nothing memorable.,2024-02-27,17,81.82
+1207,2,54.05,Facial,Not bad. The therapist was competent but not exceptional.,2024-01-16,59,116.64
+1393,2,94.81,Facial,Reasonable service for the price. Would consider rebooking.,2024-01-02,73,207.08
+1398,2,77.4,Massage,Booking process was confusing and the service was mediocre.,2024-01-14,61,128.93
+1681,2,198.5,Massage,The service was fine. Met my basic expectations.,2024-03-10,5,453.72
+1218,2,97.84,Facial,The service was fine. Met my basic expectations.,2024-01-29,46,162.99
+1005,18,246.2,Couples Massage,The service was rushed and I felt like just another number.,2024-02-25,19,4223.25
+1643,1,129.27,Wellness Package,Fair service. The app worked well for booking.,2024-03-09,6,152.39
+1717,2,121.78,Massage,Decent quality. Probably would try again.,2024-03-01,14,272.81
+1613,2,151.24,Facial,Fair service. The app worked well for booking.,2024-03-07,8,267.06
+1547,9,219.56,Facial,Standard massage experience. Nothing to complain about.,2023-05-01,319,1918.81
+1099,16,184.09,Wellness Package,The couples massage was the perfect anniversary gift.,2024-03-14,1,3147.73
+1574,2,103.53,Facial,Fair service. The app worked well for booking.,2024-03-04,11,220.04
+1407,10,322.62,Massage,Reasonable service for the price. Would consider rebooking.,2023-11-06,130,3636.84
+1503,12,300.36,Wellness Package,The service was rushed and I felt like just another number.,2023-12-13,93,3102.01
+1048,9,282.07,Massage,My facial left my skin glowing. Absolutely fantastic!,2024-02-22,22,2737.69
+1033,14,378.36,Wellness Package,Wonderful experience from start to finish. Highly recommend!,2024-02-19,25,4680.62
+1201,4,102.23,Manicure,Too expensive for what you get. Disappointing.,2024-02-21,23,334.39
+1135,15,216.17,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-02-21,23,3163.1
+1028,10,325.35,Couples Massage,I was not impressed. Expected much more for the price.,2024-02-23,21,3239.77
+1707,1,163.49,Manicure,Exceeded my expectations. The therapist really listened to my needs.,2024-03-13,2,170.19
+1231,3,109.03,Manicure,The experience did not match the website description at all.,2023-12-17,89,277.92
+1490,8,247.11,Massage,Absolutely loved it! The therapist was amazing.,2023-09-15,182,1976.01
+1379,3,72.76,Manicure,Reasonable service for the price. Would consider rebooking.,2024-02-19,25,253.32
+1289,2,107.23,Manicure,Exceeded my expectations. The therapist really listened to my needs.,2024-01-31,44,191.7
+1419,11,248.72,Facial,Would not recommend. The whole experience felt unprofessional.,2023-06-05,284,3127.22
+1675,2,125.59,Facial,Good experience overall. Average pricing.,2024-03-03,12,293.02
+1392,3,74.71,Facial,The booking process was seamless and the service was top-notch.,2024-01-25,50,187.96
+1593,1,49.59,Wellness Package,Fair service. The app worked well for booking.,2024-03-04,11,46.82
+1499,9,226.76,Wellness Package,Therapist cancelled last minute. Very frustrating.,2023-06-12,277,1983.78
+1139,8,319.29,Massage,Perfect way to unwind after a long week. Thank you Blys!,2024-03-11,4,2625.73
+1063,19,157.94,Massage,Perfect way to unwind after a long week. Thank you Blys!,2024-02-18,26,3316.99
+1472,11,297.39,Massage,Incredible value for the quality of service provided.,2023-06-25,264,2904.65
+1648,1,62.21,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-03-03,12,56.56
+1129,15,365.0,Massage,I've tried many services but this was by far the best.,2024-02-27,17,4635.56
+1779,1,42.61,Massage,Therapist cancelled last minute. Very frustrating.,2022-11-28,473,40.95
+1521,14,321.83,Facial,Poor communication and the quality was below average.,2023-12-15,91,5175.0
+1065,12,371.7,Couples Massage,Wonderful experience from start to finish. Highly recommend!,2024-02-20,24,4743.53
+1015,14,299.32,Couples Massage,I've tried many services but this was by far the best.,2024-02-21,23,3873.65
+1157,9,275.16,Couples Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-02-25,19,2134.93
+1041,15,318.78,Couples Massage,Perfect way to unwind after a long week. Thank you Blys!,2024-03-14,1,4863.07
+1493,7,325.66,Massage,Standard massage experience. Nothing to complain about.,2023-09-19,178,2517.62
+1380,2,92.14,Manicure,The therapist was nice enough. Service was adequate.,2024-02-27,17,212.28
+1188,3,74.34,Manicure,Reasonable service for the price. Would consider rebooking.,2024-01-28,47,257.45
+1217,3,71.3,Manicure,Not bad. The therapist was competent but not exceptional.,2024-02-17,27,244.21
+1053,19,372.68,Wellness Package,This has become my monthly self-care ritual. Can't live without it!,2024-02-21,23,7568.16
+1338,4,94.89,Facial,Not bad. The therapist was competent but not exceptional.,2024-01-03,72,359.57
+1296,3,111.19,Facial,This has become my monthly self-care ritual. Can't live without it!,2024-02-24,20,285.71
+1702,2,107.29,Couples Massage,Incredible value for the quality of service provided.,2024-03-11,4,194.89
+1252,3,82.65,Manicure,Therapist cancelled last minute. Very frustrating.,2024-02-10,34,296.21
+1462,9,146.96,Massage,"It was okay, nothing special but decent service.",2023-09-07,190,1321.88
+1456,5,188.18,Facial,My therapist was incredibly professional and skilled.,2023-04-20,330,945.09
+1798,2,92.59,Massage,Overpriced and underwhelming. Won't be coming back.,2023-03-13,368,169.42
+1270,4,56.16,Facial,My go-to for wellness. Never been disappointed once.,2023-12-24,82,202.78
+1202,3,100.85,Facial,Okay experience. Not the best I've had but not the worst.,2024-01-21,54,354.78
+1162,3,114.73,Massage,My facial left my skin glowing. Absolutely fantastic!,2023-12-24,82,405.37
+1556,9,243.59,Wellness Package,The service was rushed and I felt like just another number.,2023-10-02,165,2506.92
+1402,13,233.8,Facial,The service was rushed and I felt like just another number.,2023-09-21,176,2926.3
+1703,2,97.84,Massage,It was a satisfactory experience. Nothing memorable.,2024-03-05,10,218.68
+1477,11,276.75,Massage,Not worth the price. I've had better at half the cost.,2023-08-20,208,3391.53
+1106,15,332.26,Massage,Wonderful experience from start to finish. Highly recommend!,2024-02-27,17,4501.95
+1566,1,73.6,Facial,Good experience overall. Average pricing.,2024-02-27,17,78.87
+1390,2,69.1,Massage,Standard massage experience. Nothing to complain about.,2024-01-10,65,156.22
+1002,18,255.58,Massage,I've tried many services but this was by far the best.,2024-02-23,21,4786.51
+1768,2,67.64,Facial,Not worth the price. I've had better at half the cost.,2023-09-17,180,126.1
+1562,1,158.92,Massage,This has become my monthly self-care ritual. Can't live without it!,2024-03-07,8,189.83
+1081,15,176.58,Couples Massage,The booking process was seamless and the service was top-notch.,2024-03-10,5,2662.82
+1206,2,73.84,Facial,Too expensive for what you get. Disappointing.,2024-02-24,20,148.94
+1035,11,277.55,Wellness Package,Reasonable service for the price. Would consider rebooking.,2024-03-03,12,3124.24
+1509,7,173.52,Wellness Package,The therapist was late and seemed unprepared.,2023-05-03,317,1450.21
+1428,8,122.11,Wellness Package,"It was okay, nothing special but decent service.",2023-05-07,313,914.51
+1455,11,268.9,Facial,Best massage I've ever had. Will definitely rebook.,2023-04-13,337,3111.19
+1367,4,108.45,Manicure,"It was okay, nothing special but decent service.",2024-02-16,28,388.48
+1092,18,316.16,Massage,"Amazing service, felt so relaxed afterwards. 10/10!",2024-02-27,17,5189.54
+1340,3,83.54,Facial,Therapist arrived on time and was extremely professional.,2024-01-01,74,280.11
+1565,1,154.96,Facial,Decent quality. Probably would try again.,2024-03-08,7,132.82
+1346,2,88.95,Manicure,Wonderful experience from start to finish. Highly recommend!,2024-02-26,18,177.63
+1242,2,99.61,Facial,Best massage I've ever had. Will definitely rebook.,2024-02-09,35,217.8
+1014,8,307.33,Massage,This has become my monthly self-care ritual. Can't live without it!,2024-03-12,3,2725.42
+1316,4,83.8,Massage,Incredible value for the quality of service provided.,2024-01-12,63,350.48
+1601,2,136.74,Manicure,Five stars all around. The experience was flawless.,2024-03-06,9,226.42
+1388,4,87.3,Manicure,My skin reacted badly to the products used. No follow-up from support.,2024-01-15,60,343.66
+1274,3,111.22,Massage,Not bad. The therapist was competent but not exceptional.,2024-02-29,15,316.78
+1167,4,100.54,Facial,Good experience overall. Average pricing.,2024-02-16,28,441.04
+1794,2,73.9,Facial,The service was rushed and I felt like just another number.,2023-08-10,218,160.99
+1647,1,165.23,Manicure,My therapist was incredibly professional and skilled.,2024-03-11,4,145.3
+1485,12,161.67,Massage,Overpriced and underwhelming. Won't be coming back.,2023-10-08,159,1636.53
+1783,1,72.67,Facial,Good experience overall. Average pricing.,2023-02-05,404,77.2
+1505,9,285.94,Facial,Therapist arrived on time and was extremely professional.,2023-08-01,227,2265.22
+1244,4,87.13,Massage,The therapist was nice enough. Service was adequate.,2024-02-28,16,292.1
+1567,1,109.63,Manicure,I've tried many services but this was by far the best.,2024-02-29,15,126.54
+1563,1,139.54,Massage,My go-to for wellness. Never been disappointed once.,2024-02-29,15,153.69
+1687,1,59.39,Manicure,My go-to for wellness. Never been disappointed once.,2024-03-05,10,53.07
+1190,4,54.6,Facial,"It was okay, nothing special but decent service.",2024-01-15,60,205.36
+1700,2,57.59,Couples Massage,Such a convenient and luxurious experience. Love it!,2024-02-25,19,111.09
+1476,7,293.49,Massage,Good experience overall. Average pricing.,2023-07-13,246,1846.2
+1682,1,163.23,Manicure,My go-to for wellness. Never been disappointed once.,2024-02-28,16,171.02
+1511,14,290.35,Massage,My skin reacted badly to the products used. No follow-up from support.,2023-12-08,98,3689.05
+1059,12,194.05,Wellness Package,Exceeded my expectations. The therapist really listened to my needs.,2024-03-03,12,2243.8
+1475,9,278.74,Massage,Reasonable service for the price. Would consider rebooking.,2023-11-02,134,2406.31
+1561,2,101.04,Couples Massage,My facial left my skin glowing. Absolutely fantastic!,2024-02-29,15,193.27
+1748,1,42.37,Massage,Too expensive for what you get. Disappointing.,2023-03-14,367,36.65
+1253,4,30.0,Facial,Decent quality. Probably would try again.,2024-01-18,57,119.46
+1022,19,267.52,Massage,The couples massage was the perfect anniversary gift.,2024-03-04,11,4725.75
+1314,2,61.96,Manicure,Standard massage experience. Nothing to complain about.,2024-01-20,55,133.25
+1460,13,280.34,Massage,Not worth the price. I've had better at half the cost.,2023-06-25,264,3158.91
+1161,4,137.87,Facial,Reasonable service for the price. Would consider rebooking.,2024-01-26,49,494.83
+1277,3,83.94,Facial,Overpriced and underwhelming. Won't be coming back.,2024-01-01,74,269.09
+1192,2,91.5,Facial,Best massage I've ever had. Will definitely rebook.,2024-01-12,63,154.49
+1386,4,64.25,Facial,Not bad. The therapist was competent but not exceptional.,2023-12-29,77,212.64
+1414,6,314.5,Facial,This has become my monthly self-care ritual. Can't live without it!,2023-03-26,355,1888.63
+1492,12,283.3,Facial,Best massage I've ever had. Will definitely rebook.,2023-09-17,180,3064.84
+1344,2,50.58,Manicure,Best massage I've ever had. Will definitely rebook.,2024-01-06,69,110.69
+1770,1,44.61,Massage,Would not recommend. The whole experience felt unprofessional.,2023-03-12,369,42.51
+1309,4,85.11,Massage,Decent quality. Probably would try again.,2024-01-03,72,298.18
+1662,1,149.8,Manicure,I've tried many services but this was by far the best.,2024-03-07,8,179.13
+1131,9,183.62,Massage,Standard massage experience. Nothing to complain about.,2024-03-03,12,1572.75
+1664,2,96.44,Manicure,Wonderful experience from start to finish. Highly recommend!,2024-02-29,15,158.3
+1100,19,224.88,Wellness Package,My go-to for wellness. Never been disappointed once.,2024-03-08,7,4565.95
+1373,3,67.15,Facial,Good experience overall. Average pricing.,2024-02-22,22,233.2
+1088,16,280.96,Massage,Exceeded my expectations. The therapist really listened to my needs.,2024-03-06,9,3986.14
+1459,7,335.14,Massage,The service was fine. Met my basic expectations.,2023-06-14,275,1916.47
+1331,2,92.89,Facial,The service was fine. Met my basic expectations.,2024-02-07,37,211.1
+1215,3,74.35,Massage,My facial left my skin glowing. Absolutely fantastic!,2024-01-09,66,246.09
+1467,10,291.53,Wellness Package,Such a convenient and luxurious experience. Love it!,2023-10-13,154,3370.34
+1122,12,396.02,Couples Massage,My therapist was incredibly professional and skilled.,2024-02-23,21,3995.27
+1615,1,99.29,Wellness Package,This has become my monthly self-care ritual. Can't live without it!,2024-03-09,6,113.77
+1021,13,348.11,Massage,Therapist arrived on time and was extremely professional.,2024-02-23,21,5197.84
+1701,1,157.01,Manicure,My go-to for wellness. Never been disappointed once.,2024-02-26,18,150.54
+1072,11,253.89,Wellness Package,My facial left my skin glowing. Absolutely fantastic!,2024-02-15,29,2549.3
+1107,9,287.98,Couples Massage,Best massage I've ever had. Will definitely rebook.,2024-03-04,11,2322.42
+1271,4,151.91,Manicure,My facial left my skin glowing. Absolutely fantastic!,2024-01-25,50,660.54
+1436,10,149.08,Facial,Such a convenient and luxurious experience. Love it!,2023-07-23,236,1498.49
+1103,9,354.76,Massage,My facial left my skin glowing. Absolutely fantastic!,2024-03-13,2,3002.02

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "Q01",
+    "query": "How much does a deep tissue massage cost?",
+    "expected_intent": "pricing_inquiry",
+    "expected_source": "services.md",
+    "expected_answer_contains": ["$120", "60 minutes"],
+    "category": "pricing"
+  },
+  {
+    "id": "Q02",
+    "query": "What's the price for a couples massage?",
+    "expected_intent": "pricing_inquiry",
+    "expected_source": "services.md",
+    "expected_answer_contains": ["$220", "two people"],
+    "category": "pricing"
+  },
+  {
+    "id": "Q03",
+    "query": "How much is a facial treatment?",
+    "expected_intent": "pricing_inquiry",
+    "expected_source": "services.md",
+    "expected_answer_contains": ["$89"],
+    "category": "pricing"
+  },
+  {
+    "id": "Q04",
+    "query": "Do you have a monthly membership?",
+    "expected_intent": "pricing_inquiry",
+    "expected_source": "services.md",
+    "expected_answer_contains": ["$79", "month"],
+    "category": "pricing"
+  },
+  {
+    "id": "Q05",
+    "query": "What's the cancellation policy?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "policies.md",
+    "expected_answer_contains": ["24", "cancel"],
+    "category": "policy"
+  },
+  {
+    "id": "Q06",
+    "query": "Can I get a refund if I cancel my booking?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "policies.md",
+    "expected_answer_contains": ["refund", "24 hours"],
+    "category": "policy"
+  },
+  {
+    "id": "Q07",
+    "query": "What happens if my therapist cancels?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "policies.md",
+    "expected_answer_contains": ["refund", "another"],
+    "category": "policy"
+  },
+  {
+    "id": "Q08",
+    "query": "How many times can I reschedule my booking?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "policies.md",
+    "expected_answer_contains": ["2 times", "reschedule"],
+    "category": "policy"
+  },
+  {
+    "id": "Q09",
+    "query": "What's the late cancellation fee?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "policies.md",
+    "expected_answer_contains": ["4 hour", "full"],
+    "category": "policy"
+  },
+  {
+    "id": "Q10",
+    "query": "How do I book a massage?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "booking_guide.md",
+    "expected_answer_contains": ["app", "select"],
+    "category": "booking"
+  },
+  {
+    "id": "Q11",
+    "query": "What do I need to prepare for my first massage?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "booking_guide.md",
+    "expected_answer_contains": ["space", "quiet"],
+    "category": "booking"
+  },
+  {
+    "id": "Q12",
+    "query": "Can I choose which therapist I want?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "faq.md",
+    "expected_answer_contains": ["yes", "therapist"],
+    "category": "faq"
+  },
+  {
+    "id": "Q13",
+    "query": "Do therapists bring their own equipment?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "faq.md",
+    "expected_answer_contains": ["yes", "massage table"],
+    "category": "faq"
+  },
+  {
+    "id": "Q14",
+    "query": "How do I pay for my booking?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "faq.md",
+    "expected_answer_contains": ["app", "credit", "Apple Pay"],
+    "category": "faq"
+  },
+  {
+    "id": "Q15",
+    "query": "Are tips included in the price?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "faq.md",
+    "expected_answer_contains": ["not included", "optional"],
+    "category": "faq"
+  },
+  {
+    "id": "Q16",
+    "query": "How are your therapists vetted?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "faq.md",
+    "expected_answer_contains": ["background check", "qualifications"],
+    "category": "faq"
+  },
+  {
+    "id": "Q17",
+    "query": "Can I book for a group event?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "booking_guide.md",
+    "expected_answer_contains": ["group", "$95", "per person"],
+    "category": "booking"
+  },
+  {
+    "id": "Q18",
+    "query": "What areas do you service?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "faq.md",
+    "expected_answer_contains": ["Australia", "United States"],
+    "category": "faq"
+  },
+  {
+    "id": "Q19",
+    "query": "I want to reschedule my booking to next Friday",
+    "expected_intent": "reschedule_booking",
+    "expected_action": "reschedule_booking",
+    "expected_answer_contains": ["reschedule"],
+    "category": "action"
+  },
+  {
+    "id": "Q20",
+    "query": "Cancel my appointment please",
+    "expected_intent": "cancel_booking",
+    "expected_action": "cancel_booking",
+    "expected_answer_contains": ["cancel", "confirm"],
+    "category": "action"
+  },
+  {
+    "id": "Q21",
+    "query": "I'd like to book a new massage",
+    "expected_intent": "booking_new",
+    "expected_answer_contains": ["app", "book"],
+    "category": "action"
+  },
+  {
+    "id": "Q22",
+    "query": "What types of massage do you offer?",
+    "expected_intent": "pricing_inquiry",
+    "expected_source": "services.md",
+    "expected_answer_contains": ["Swedish", "Deep Tissue"],
+    "category": "pricing"
+  },
+  {
+    "id": "Q23",
+    "query": "Is there a travel fee for my area?",
+    "expected_intent": "pricing_inquiry",
+    "expected_source": "services.md",
+    "expected_answer_contains": ["$20", "surcharge"],
+    "category": "pricing"
+  },
+  {
+    "id": "Q24",
+    "query": "What if I'm not happy with the service?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "policies.md",
+    "expected_answer_contains": ["48 hours", "quality"],
+    "category": "policy"
+  },
+  {
+    "id": "Q25",
+    "query": "Do you offer gift vouchers?",
+    "expected_intent": "general_inquiry",
+    "expected_source": "faq.md",
+    "expected_answer_contains": ["gift voucher", "never expire"],
+    "category": "faq"
+  }
+]

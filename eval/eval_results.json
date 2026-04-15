@@ -1,0 +1,791 @@
+{
+  "summary": {
+    "intent_accuracy": 0.64,
+    "retrieval_precision@5": 1.0,
+    "avg_keyword_coverage": 0.74,
+    "avg_faithfulness": 3.41
+  },
+  "intent": {
+    "accuracy": 0.64,
+    "correct": 16,
+    "total": 25,
+    "mismatches": [
+      {
+        "id": "Q05",
+        "query": "What's the cancellation policy?",
+        "expected": "general_inquiry",
+        "predicted": "cancel_booking"
+      },
+      {
+        "id": "Q06",
+        "query": "Can I get a refund if I cancel my booking?",
+        "expected": "general_inquiry",
+        "predicted": "cancel_booking"
+      },
+      {
+        "id": "Q07",
+        "query": "What happens if my therapist cancels?",
+        "expected": "general_inquiry",
+        "predicted": "cancel_booking"
+      },
+      {
+        "id": "Q08",
+        "query": "How many times can I reschedule my booking?",
+        "expected": "general_inquiry",
+        "predicted": "reschedule_booking"
+      },
+      {
+        "id": "Q09",
+        "query": "What's the late cancellation fee?",
+        "expected": "general_inquiry",
+        "predicted": "cancel_booking"
+      },
+      {
+        "id": "Q10",
+        "query": "How do I book a massage?",
+        "expected": "general_inquiry",
+        "predicted": "booking_new"
+      },
+      {
+        "id": "Q14",
+        "query": "How do I pay for my booking?",
+        "expected": "general_inquiry",
+        "predicted": "pricing_inquiry"
+      },
+      {
+        "id": "Q15",
+        "query": "Are tips included in the price?",
+        "expected": "general_inquiry",
+        "predicted": "pricing_inquiry"
+      },
+      {
+        "id": "Q17",
+        "query": "Can I book for a group event?",
+        "expected": "general_inquiry",
+        "predicted": "booking_new"
+      }
+    ]
+  },
+  "retrieval": {
+    "retrieval_precision@5": 1.0,
+    "correct": 22,
+    "total": 22,
+    "details": [
+      {
+        "id": "Q01",
+        "query": "How much does a deep tissue massage cost?",
+        "expected_source": "services.md",
+        "retrieved_sources": [
+          "services.md",
+          "services.md",
+          "services.md",
+          "services.md",
+          "services.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q02",
+        "query": "What's the price for a couples massage?",
+        "expected_source": "services.md",
+        "retrieved_sources": [
+          "services.md",
+          "services.md",
+          "services.md",
+          "services.md",
+          "services.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q03",
+        "query": "How much is a facial treatment?",
+        "expected_source": "services.md",
+        "retrieved_sources": [
+          "services.md",
+          "services.md",
+          "services.md",
+          "services.md",
+          "booking_guide.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q04",
+        "query": "Do you have a monthly membership?",
+        "expected_source": "services.md",
+        "retrieved_sources": [
+          "services.md",
+          "faq.md",
+          "faq.md",
+          "faq.md",
+          "faq.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q05",
+        "query": "What's the cancellation policy?",
+        "expected_source": "policies.md",
+        "retrieved_sources": [
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q06",
+        "query": "Can I get a refund if I cancel my booking?",
+        "expected_source": "policies.md",
+        "retrieved_sources": [
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q07",
+        "query": "What happens if my therapist cancels?",
+        "expected_source": "policies.md",
+        "retrieved_sources": [
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q08",
+        "query": "How many times can I reschedule my booking?",
+        "expected_source": "policies.md",
+        "retrieved_sources": [
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q09",
+        "query": "What's the late cancellation fee?",
+        "expected_source": "policies.md",
+        "retrieved_sources": [
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md",
+          "policies.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q10",
+        "query": "How do I book a massage?",
+        "expected_source": "booking_guide.md",
+        "retrieved_sources": [
+          "faq.md",
+          "services.md",
+          "booking_guide.md",
+          "booking_guide.md",
+          "faq.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q11",
+        "query": "What do I need to prepare for my first massage?",
+        "expected_source": "booking_guide.md",
+        "retrieved_sources": [
+          "faq.md",
+          "faq.md",
+          "booking_guide.md",
+          "booking_guide.md",
+          "services.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q12",
+        "query": "Can I choose which therapist I want?",
+        "expected_source": "faq.md",
+        "retrieved_sources": [
+          "faq.md",
+          "booking_guide.md",
+          "faq.md",
+          "booking_guide.md",
+          "faq.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q13",
+        "query": "Do therapists bring their own equipment?",
+        "expected_source": "faq.md",
+        "retrieved_sources": [
+          "faq.md",
+          "booking_guide.md",
+          "faq.md",
+          "faq.md",
+          "services.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q14",
+        "query": "How do I pay for my booking?",
+        "expected_source": "faq.md",
+        "retrieved_sources": [
+          "booking_guide.md",
+          "booking_guide.md",
+          "faq.md",
+          "faq.md",
+          "policies.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q15",
+        "query": "Are tips included in the price?",
+        "expected_source": "faq.md",
+        "retrieved_sources": [
+          "faq.md",
+          "services.md",
+          "booking_guide.md",
+          "services.md",
+          "services.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q16",
+        "query": "How are your therapists vetted?",
+        "expected_source": "faq.md",
+        "retrieved_sources": [
+          "faq.md",
+          "booking_guide.md",
+          "booking_guide.md",
+          "faq.md",
+          "booking_guide.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q17",
+        "query": "Can I book for a group event?",
+        "expected_source": "booking_guide.md",
+        "retrieved_sources": [
+          "booking_guide.md",
+          "services.md",
+          "faq.md",
+          "faq.md",
+          "faq.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q18",
+        "query": "What areas do you service?",
+        "expected_source": "faq.md",
+        "retrieved_sources": [
+          "faq.md",
+          "faq.md",
+          "booking_guide.md",
+          "booking_guide.md",
+          "services.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q22",
+        "query": "What types of massage do you offer?",
+        "expected_source": "services.md",
+        "retrieved_sources": [
+          "services.md",
+          "services.md",
+          "booking_guide.md",
+          "services.md",
+          "booking_guide.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q23",
+        "query": "Is there a travel fee for my area?",
+        "expected_source": "services.md",
+        "retrieved_sources": [
+          "services.md",
+          "faq.md",
+          "booking_guide.md",
+          "policies.md",
+          "services.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q24",
+        "query": "What if I'm not happy with the service?",
+        "expected_source": "policies.md",
+        "retrieved_sources": [
+          "policies.md",
+          "faq.md",
+          "policies.md",
+          "policies.md",
+          "faq.md"
+        ],
+        "hit": true
+      },
+      {
+        "id": "Q25",
+        "query": "Do you offer gift vouchers?",
+        "expected_source": "faq.md",
+        "retrieved_sources": [
+          "faq.md",
+          "faq.md",
+          "faq.md",
+          "faq.md",
+          "policies.md"
+        ],
+        "hit": true
+      }
+    ]
+  },
+  "coverage": {
+    "avg_keyword_coverage": 0.74,
+    "total_evaluated": 25,
+    "details": [
+      {
+        "id": "Q01",
+        "query": "How much does a deep tissue massage cost?",
+        "coverage": 0.5,
+        "hits": 1,
+        "total_keywords": 2,
+        "missing": [
+          "60 minutes"
+        ]
+      },
+      {
+        "id": "Q02",
+        "query": "What's the price for a couples massage?",
+        "coverage": 0.5,
+        "hits": 1,
+        "total_keywords": 2,
+        "missing": [
+          "two people"
+        ]
+      },
+      {
+        "id": "Q03",
+        "query": "How much is a facial treatment?",
+        "coverage": 1.0,
+        "hits": 1,
+        "total_keywords": 1,
+        "missing": []
+      },
+      {
+        "id": "Q04",
+        "query": "Do you have a monthly membership?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q05",
+        "query": "What's the cancellation policy?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q06",
+        "query": "Can I get a refund if I cancel my booking?",
+        "coverage": 0.5,
+        "hits": 1,
+        "total_keywords": 2,
+        "missing": [
+          "24 hours"
+        ]
+      },
+      {
+        "id": "Q07",
+        "query": "What happens if my therapist cancels?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q08",
+        "query": "How many times can I reschedule my booking?",
+        "coverage": 0.5,
+        "hits": 1,
+        "total_keywords": 2,
+        "missing": [
+          "2 times"
+        ]
+      },
+      {
+        "id": "Q09",
+        "query": "What's the late cancellation fee?",
+        "coverage": 0.0,
+        "hits": 0,
+        "total_keywords": 2,
+        "missing": [
+          "4 hour",
+          "full"
+        ]
+      },
+      {
+        "id": "Q10",
+        "query": "How do I book a massage?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q11",
+        "query": "What do I need to prepare for my first massage?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q12",
+        "query": "Can I choose which therapist I want?",
+        "coverage": 0.5,
+        "hits": 1,
+        "total_keywords": 2,
+        "missing": [
+          "yes"
+        ]
+      },
+      {
+        "id": "Q13",
+        "query": "Do therapists bring their own equipment?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q14",
+        "query": "How do I pay for my booking?",
+        "coverage": 0.67,
+        "hits": 2,
+        "total_keywords": 3,
+        "missing": [
+          "Apple Pay"
+        ]
+      },
+      {
+        "id": "Q15",
+        "query": "Are tips included in the price?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q16",
+        "query": "How are your therapists vetted?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q17",
+        "query": "Can I book for a group event?",
+        "coverage": 0.33,
+        "hits": 1,
+        "total_keywords": 3,
+        "missing": [
+          "$95",
+          "per person"
+        ]
+      },
+      {
+        "id": "Q18",
+        "query": "What areas do you service?",
+        "coverage": 0.5,
+        "hits": 1,
+        "total_keywords": 2,
+        "missing": [
+          "United States"
+        ]
+      },
+      {
+        "id": "Q19",
+        "query": "I want to reschedule my booking to next Friday",
+        "coverage": 0.0,
+        "hits": 0,
+        "total_keywords": 1,
+        "missing": [
+          "reschedule"
+        ]
+      },
+      {
+        "id": "Q20",
+        "query": "Cancel my appointment please",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q21",
+        "query": "I'd like to book a new massage",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q22",
+        "query": "What types of massage do you offer?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q23",
+        "query": "Is there a travel fee for my area?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      },
+      {
+        "id": "Q24",
+        "query": "What if I'm not happy with the service?",
+        "coverage": 0.5,
+        "hits": 1,
+        "total_keywords": 2,
+        "missing": [
+          "48 hours"
+        ]
+      },
+      {
+        "id": "Q25",
+        "query": "Do you offer gift vouchers?",
+        "coverage": 1.0,
+        "hits": 2,
+        "total_keywords": 2,
+        "missing": []
+      }
+    ]
+  },
+  "faithfulness": {
+    "avg_faithfulness": 3.41,
+    "total_evaluated": 22,
+    "score_distribution": {
+      "1": 5,
+      "2": 2,
+      "3": 2,
+      "4": 5,
+      "5": 8
+    },
+    "details": [
+      {
+        "id": "Q01",
+        "query": "How much does a deep tissue massage cost?",
+        "faithfulness_score": 5,
+        "sources": [
+          "services.md"
+        ]
+      },
+      {
+        "id": "Q02",
+        "query": "What's the price for a couples massage?",
+        "faithfulness_score": 5,
+        "sources": [
+          "services.md"
+        ]
+      },
+      {
+        "id": "Q03",
+        "query": "How much is a facial treatment?",
+        "faithfulness_score": 4,
+        "sources": [
+          "services.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q04",
+        "query": "Do you have a monthly membership?",
+        "faithfulness_score": 5,
+        "sources": [
+          "services.md",
+          "faq.md"
+        ]
+      },
+      {
+        "id": "Q05",
+        "query": "What's the cancellation policy?",
+        "faithfulness_score": 1,
+        "sources": []
+      },
+      {
+        "id": "Q06",
+        "query": "Can I get a refund if I cancel my booking?",
+        "faithfulness_score": 1,
+        "sources": []
+      },
+      {
+        "id": "Q07",
+        "query": "What happens if my therapist cancels?",
+        "faithfulness_score": 1,
+        "sources": []
+      },
+      {
+        "id": "Q08",
+        "query": "How many times can I reschedule my booking?",
+        "faithfulness_score": 1,
+        "sources": []
+      },
+      {
+        "id": "Q09",
+        "query": "What's the late cancellation fee?",
+        "faithfulness_score": 1,
+        "sources": []
+      },
+      {
+        "id": "Q10",
+        "query": "How do I book a massage?",
+        "faithfulness_score": 2,
+        "sources": []
+      },
+      {
+        "id": "Q11",
+        "query": "What do I need to prepare for my first massage?",
+        "faithfulness_score": 2,
+        "sources": [
+          "services.md",
+          "faq.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q12",
+        "query": "Can I choose which therapist I want?",
+        "faithfulness_score": 4,
+        "sources": [
+          "faq.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q13",
+        "query": "Do therapists bring their own equipment?",
+        "faithfulness_score": 5,
+        "sources": [
+          "services.md",
+          "faq.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q14",
+        "query": "How do I pay for my booking?",
+        "faithfulness_score": 5,
+        "sources": [
+          "policies.md",
+          "faq.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q15",
+        "query": "Are tips included in the price?",
+        "faithfulness_score": 5,
+        "sources": [
+          "services.md",
+          "faq.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q16",
+        "query": "How are your therapists vetted?",
+        "faithfulness_score": 4,
+        "sources": [
+          "faq.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q17",
+        "query": "Can I book for a group event?",
+        "faithfulness_score": 3,
+        "sources": [
+          "services.md",
+          "faq.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q18",
+        "query": "What areas do you service?",
+        "faithfulness_score": 5,
+        "sources": [
+          "services.md",
+          "faq.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q22",
+        "query": "What types of massage do you offer?",
+        "faithfulness_score": 5,
+        "sources": [
+          "services.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q23",
+        "query": "Is there a travel fee for my area?",
+        "faithfulness_score": 4,
+        "sources": [
+          "policies.md",
+          "services.md",
+          "faq.md",
+          "booking_guide.md"
+        ]
+      },
+      {
+        "id": "Q24",
+        "query": "What if I'm not happy with the service?",
+        "faithfulness_score": 4,
+        "sources": [
+          "policies.md",
+          "faq.md"
+        ]
+      },
+      {
+        "id": "Q25",
+        "query": "Do you offer gift vouchers?",
+        "faithfulness_score": 3,
+        "sources": [
+          "policies.md",
+          "faq.md"
+        ]
+      }
+    ]
+  }
+}
